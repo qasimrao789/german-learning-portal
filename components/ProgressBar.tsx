@@ -1,0 +1,1 @@
+export default function ProgressBar({value}:{value:number}){const safe=Math.max(0,Math.min(100,value));return <div className="progressTrack"><div className="progressFill" style={{width:`${safe}%`}}/></div>}

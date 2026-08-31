@@ -1,0 +1,200 @@
+{
+  "topicId": "feminine-nouns-01",
+  "title": "Feminine Nouns — Starter Set",
+  "level": "A1",
+  "kind": "vocabulary",
+  "items": [
+    {
+      "id": "1",
+      "type": "noun",
+      "german": "Katze",
+      "english": "cat",
+      "article": "die",
+      "plural": "Katzen"
+    },
+    {
+      "id": "2",
+      "type": "noun",
+      "german": "Straße",
+      "english": "street",
+      "article": "die",
+      "plural": "Straßen"
+    },
+    {
+      "id": "3",
+      "type": "noun",
+      "german": "Wohnung",
+      "english": "apartment",
+      "article": "die",
+      "plural": "Wohnungen"
+    },
+    {
+      "id": "4",
+      "type": "noun",
+      "german": "Flasche",
+      "english": "bottle",
+      "article": "die",
+      "plural": "Flaschen"
+    },
+    {
+      "id": "5",
+      "type": "noun",
+      "german": "Zeitung",
+      "english": "newspaper",
+      "article": "die",
+      "plural": "Zeitungen"
+    },
+    {
+      "id": "6",
+      "type": "noun",
+      "german": "Sprache",
+      "english": "language",
+      "article": "die",
+      "plural": "Sprachen"
+    },
+    {
+      "id": "7",
+      "type": "noun",
+      "german": "Frage",
+      "english": "question",
+      "article": "die",
+      "plural": "Fragen"
+    },
+    {
+      "id": "8",
+      "type": "noun",
+      "german": "Antwort",
+      "english": "answer",
+      "article": "die",
+      "plural": "Antworten"
+    },
+    {
+      "id": "9",
+      "type": "noun",
+      "german": "Schule",
+      "english": "school",
+      "article": "die",
+      "plural": "Schulen"
+    },
+    {
+      "id": "10",
+      "type": "noun",
+      "german": "Reise",
+      "english": "journey",
+      "article": "die",
+      "plural": "Reisen"
+    },
+    {
+      "id": "11",
+      "type": "noun",
+      "german": "Tasse",
+      "english": "cup",
+      "article": "die",
+      "plural": "Tassen"
+    },
+    {
+      "id": "12",
+      "type": "noun",
+      "german": "Gabel",
+      "english": "fork",
+      "article": "die",
+      "plural": "Gabeln"
+    },
+    {
+      "id": "13",
+      "type": "noun",
+      "german": "Tochter",
+      "english": "daughter",
+      "article": "die",
+      "plural": "Töchter"
+    },
+    {
+      "id": "14",
+      "type": "noun",
+      "german": "Tante",
+      "english": "aunt",
+      "article": "die",
+      "plural": "Tanten"
+    },
+    {
+      "id": "15",
+      "type": "noun",
+      "german": "Freundin",
+      "english": "female friend",
+      "article": "die",
+      "plural": "Freundinnen"
+    },
+    {
+      "id": "16",
+      "type": "noun",
+      "german": "Lehrerin",
+      "english": "female teacher",
+      "article": "die",
+      "plural": "Lehrerinnen"
+    },
+    {
+      "id": "17",
+      "type": "noun",
+      "german": "Ärztin",
+      "english": "female doctor",
+      "article": "die",
+      "plural": "Ärztinnen"
+    },
+    {
+      "id": "18",
+      "type": "noun",
+      "german": "Karte",
+      "english": "card / map",
+      "article": "die",
+      "plural": "Karten"
+    },
+    {
+      "id": "19",
+      "type": "noun",
+      "german": "Nachricht",
+      "english": "message / news",
+      "article": "die",
+      "plural": "Nachrichten"
+    },
+    {
+      "id": "20",
+      "type": "noun",
+      "german": "Gelegenheit",
+      "english": "opportunity / chance",
+      "article": "die",
+      "plural": "Gelegenheiten"
+    },
+    {
+      "id": "21",
+      "type": "noun",
+      "german": "Gesellschaft",
+      "english": "society / company",
+      "article": "die",
+      "plural": "Gesellschaften"
+    },
+    {
+      "id": "22",
+      "type": "noun",
+      "german": "Entscheidung",
+      "english": "decision",
+      "article": "die",
+      "plural": "Entscheidungen"
+    },
+    {
+      "id": "23",
+      "type": "noun",
+      "german": "Überraschung",
+      "english": "surprise",
+      "article": "die",
+      "plural": "Überraschungen"
+    },
+    {
+      "id": "24",
+      "type": "noun",
+      "german": "Maschine",
+      "english": "machine",
+      "article": "die",
+      "plural": "Maschinen"
+    }
+  ]
+}

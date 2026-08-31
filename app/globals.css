@@ -1,0 +1,616 @@
+*{box-sizing:border-box}:root{--bg:#f7f8fa;--card:#fff;--text:#171717;--muted:#737373;--border:#e5e7eb;--primary:#6c63ff;--success:#22c55e;--danger:#ef4444}html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}button,input{font:inherit}a{color:inherit;text-decoration:none}.shell{width:min(100%,520px);margin:0 auto;min-height:100vh;padding:20px 18px 40px}.header{display:flex;align-items:center;justify-content:space-between;margin-bottom:28px}.brand{font-weight:800;font-size:20px}.muted{color:var(--muted)}.card{background:var(--card);border:1px solid var(--border);border-radius:22px;padding:20px;box-shadow:0 10px 30px rgba(0,0,0,.04)}.hero{padding:24px}.primaryButton,.secondaryButton,.answerButton{border:0;border-radius:14px;min-height:52px;cursor:pointer}.primaryButton{width:100%;background:var(--primary);color:#fff;font-weight:800}.secondaryButton{width:100%;background:#fff;border:1px solid var(--border);color:var(--text);font-weight:700}.progressTrack{height:10px;background:#eceef2;border-radius:999px;overflow:hidden}.progressFill{height:100%;background:var(--primary);border-radius:999px}.stats{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-top:16px}.stat{background:#fff;border:1px solid var(--border);border-radius:18px;padding:16px}.stat strong{font-size:26px;display:block}.sectionTitle{font-size:18px;font-weight:800;margin:28px 0 12px}.skillRow{margin:16px 0}.skillLabel{display:flex;justify-content:space-between;margin-bottom:8px}.practiceTop{display:grid;grid-template-columns:38px 1fr auto;align-items:center;gap:12px;margin-bottom:24px}.iconButton{width:38px;height:38px;border-radius:12px;border:1px solid var(--border);background:#fff;cursor:pointer}.questionType{font-size:12px;letter-spacing:.14em;font-weight:900;color:var(--primary);margin-bottom:12px}.questionPrompt{color:var(--muted);margin-bottom:24px}.word{font-size:40px;font-weight:900;text-align:center;margin:34px 0}.answers{display:grid;gap:12px}.answerButton{background:#fff;border:1px solid var(--border);color:var(--text);font-weight:750;text-align:left;padding:0 16px}.answerButton:hover{border-color:var(--primary)}.answerButton.correct{border-color:var(--success);background:#f0fdf4}.answerButton.wrong{border-color:var(--danger);background:#fef2f2}.textInput{width:100%;min-height:56px;border:1px solid var(--border);border-radius:14px;padding:0 16px;font-size:18px;outline:none}.textInput:focus{border-color:var(--primary)}.feedback{margin-top:18px;border-radius:18px;padding:16px}.feedback.correct{background:#f0fdf4;border:1px solid #bbf7d0}.feedback.wrong{background:#fef2f2;border:1px solid #fecaca}.feedbackTitle{font-size:20px;font-weight:900}.feedbackAnswer{margin-top:8px;font-weight:800}.footerAction{margin-top:18px}.resultsScore{font-size:52px;text-align:center;font-weight:900;margin:12px 0 0}.center{text-align:center}.pill{display:inline-flex;border-radius:999px;padding:7px 10px;background:#f2f0ff;color:var(--primary);font-size:13px;font-weight:800}@media(max-width:420px){.word{font-size:34px}}
+
+.germanCharacterBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.germanCharacterLabel {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.germanCharacterKeys {
+  display: flex;
+  gap: 7px;
+}
+
+.germanCharacterKey {
+  min-width: 42px;
+  height: 40px;
+  border: 1px solid var(--border);
+  border-radius: 11px;
+  background: white;
+  color: var(--text);
+  font-size: 18px;
+  font-weight: 800;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.03);
+}
+
+.germanCharacterKey:hover {
+  border-color: var(--primary);
+}
+
+.germanCharacterKey:active {
+  transform: translateY(1px);
+}
+
+.germanCharacterKey:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+
+@media (max-width: 420px) {
+  .germanCharacterBar {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .germanCharacterKeys {
+    width: 100%;
+  }
+
+  .germanCharacterKey {
+    flex: 1;
+  }
+}
+
+.retryPill {
+  display: inline-flex;
+  align-items: center;
+  height: 26px;
+  padding: 0 9px;
+  border-radius: 999px;
+  background: #fff7ed;
+  color: #c2410c;
+  font-size: 11px;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  white-space: nowrap;
+}
+
+.retryNote {
+  margin-top: 12px;
+  padding: 10px 12px;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.7);
+  font-size: 14px;
+  line-height: 1.45;
+}
+
+.successNote {
+  color: #166534;
+}
+
+.weakWordRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.weakWordRow:last-child {
+  border-bottom: 0;
+}
+
+.weakWordMeaning {
+  font-size: 13px;
+  margin-top: 3px;
+}
+
+.weakWordMeta {
+  min-width: 86px;
+  text-align: right;
+}
+
+.weakWordMeta strong,
+.weakWordMeta span {
+  display: block;
+}
+
+.weakWordMeta span {
+  margin-top: 2px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.resultsWeaknesses {
+  margin: 24px 0 8px;
+  padding: 16px;
+  border-radius: 16px;
+  background: #fafafa;
+  border: 1px solid var(--border);
+}
+
+/* Optional vocabulary meaning hint.
+   We only use this on exercises where meaning is NOT the skill being tested. */
+.meaningHintWrap {
+  position: relative;
+  display: inline-flex;
+  justify-content: center;
+}
+
+.meaningHintTrigger {
+  appearance: none;
+  border: 0;
+  border-bottom: 2px dotted #b7b3ff;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+  padding: 0 1px 2px;
+  cursor: help;
+}
+
+.meaningHintTrigger:focus-visible {
+  outline: 3px solid rgba(108, 99, 255, 0.2);
+  outline-offset: 4px;
+  border-radius: 6px;
+}
+
+.meaningTooltip {
+  position: absolute;
+  z-index: 20;
+  left: 50%;
+  bottom: calc(100% + 12px);
+  transform: translate(-50%, 6px);
+  min-width: 130px;
+  max-width: 230px;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: #171717;
+  color: white;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.14);
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.35;
+  text-align: center;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 140ms ease, transform 140ms ease, visibility 140ms ease;
+}
+
+.meaningTooltip::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: #171717;
+}
+
+.meaningTooltip.isOpen {
+  opacity: 1;
+  visibility: visible;
+  transform: translate(-50%, 0);
+}
+
+.meaningTooltipLabel {
+  display: block;
+  margin-bottom: 2px;
+  color: #c7c5ff;
+  font-size: 10px;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.meaningHintHelper {
+  margin: -22px 0 22px;
+  color: var(--muted);
+  font-size: 12px;
+  text-align: center;
+}
+
+.resultsPercent {
+  margin: 20px 0 0;
+  font-size: 58px;
+  font-weight: 900;
+  line-height: 1;
+  text-align: center;
+}
+
+.resultsBreakdown {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 12px 0 0;
+  font-size: 14px;
+}
+
+.focusList {
+  display: grid;
+}
+
+.focusRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.focusRow:last-child {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+
+.focusWord {
+  min-width: 0;
+}
+
+.focusWord strong,
+.focusWord span {
+  display: block;
+}
+
+.focusWord strong {
+  line-height: 1.3;
+}
+
+.focusWord span {
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.focusScore {
+  flex: 0 0 auto;
+  min-width: 72px;
+  text-align: right;
+}
+
+.focusScore span,
+.focusScore strong {
+  display: block;
+}
+
+.focusScore span {
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.focusScore strong {
+  margin-top: 2px;
+  font-size: 18px;
+}
+
+@media (max-width: 420px) {
+  .meaningTooltip {
+    max-width: 190px;
+  }
+
+  .focusRow {
+    gap: 10px;
+  }
+}
+
+.questionHeaderRow {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.questionPills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 6px;
+}
+
+.studyPill {
+  display: inline-flex;
+  align-items: center;
+  min-height: 26px;
+  padding: 0 9px;
+  border-radius: 999px;
+  font-size: 10px;
+  font-weight: 900;
+  letter-spacing: .08em;
+  white-space: nowrap;
+}
+
+.studyPill.due {
+  background: #eef2ff;
+  color: #4f46e5;
+}
+
+.studyPill.new {
+  background: #ecfdf5;
+  color: #047857;
+}
+
+.studyPill.refresh {
+  background: #f5f5f5;
+  color: #525252;
+}
+
+.sessionMix {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 18px 0 4px;
+}
+
+.sessionMix span {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 7px 10px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: #fafafa;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.sessionMix strong {
+  color: var(--text);
+}
+
+.reviewScheduleCard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-top: 12px;
+  padding: 14px 16px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: white;
+}
+
+.reviewScheduleCard strong,
+.reviewScheduleCard span {
+  display: block;
+}
+
+.reviewScheduleLabel {
+  margin-bottom: 4px;
+  font-size: 10px;
+  font-weight: 900;
+  letter-spacing: .09em;
+}
+
+.reviewScheduleProgress {
+  max-width: 150px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.35;
+  text-align: right;
+}
+
+.masteryResultCard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-top: 22px;
+  padding: 15px 16px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: #fafafa;
+}
+
+.masteryResultCard span,
+.masteryResultCard strong {
+  display: block;
+}
+
+.masteryResultCard > div > span {
+  margin-bottom: 3px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.masteryResultCard > div > strong {
+  font-size: 20px;
+}
+
+.masteryDelta {
+  flex: 0 0 auto;
+  padding: 6px 9px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 900;
+}
+
+.masteryDelta.up {
+  background: #ecfdf5;
+  color: #047857;
+}
+
+.masteryDelta.down {
+  background: #fef2f2;
+  color: #b91c1c;
+}
+
+.scheduleSummary {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.scheduleSummary > div {
+  padding: 12px 14px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+}
+
+.scheduleSummary span,
+.scheduleSummary strong {
+  display: block;
+}
+
+.scheduleSummary span {
+  margin-bottom: 3px;
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.resultRetryLine {
+  margin: 16px 0 0;
+  font-size: 12px;
+}
+
+.focusScore small {
+  display: block;
+  margin-top: 2px;
+  color: var(--muted);
+  font-size: 10px;
+}
+
+@media (max-width: 420px) {
+  .reviewScheduleCard {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .reviewScheduleProgress {
+    max-width: none;
+    text-align: left;
+  }
+}
+
+/* Focused practice selector */
+.focusedPracticeIntro {
+  margin: -6px 0 14px;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.practiceModeGrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.practiceModeCard {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 10px;
+  min-height: 94px;
+  padding: 14px;
+  border: 1px solid var(--border);
+  border-radius: 17px;
+  background: white;
+  transition: border-color 150ms ease, transform 150ms ease, background 150ms ease;
+}
+
+.practiceModeCard.wide {
+  grid-column: 1 / -1;
+}
+
+.practiceModeCard:hover {
+  border-color: #b7b3ff;
+  background: #fbfaff;
+  transform: translateY(-1px);
+}
+
+.practiceModeCard:focus-visible {
+  outline: 3px solid rgba(108, 99, 255, 0.2);
+  outline-offset: 2px;
+}
+
+.practiceModeIcon {
+  display: grid;
+  place-items: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 12px;
+  background: #f5f5f7;
+  font-size: 20px;
+}
+
+.practiceModeCard strong,
+.practiceModeCard span:not(.practiceModeIcon):not(.practiceModeArrow) {
+  display: block;
+}
+
+.practiceModeCard strong {
+  font-size: 14px;
+  line-height: 1.25;
+}
+
+.practiceModeCard div > span {
+  margin-top: 4px;
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.35;
+}
+
+.practiceModeArrow {
+  color: var(--muted);
+  font-size: 18px;
+  font-weight: 800;
+}
+
+.practiceModeBanner {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: -10px 0 12px;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: #fafafa;
+}
+
+.practiceModeBannerIcon {
+  display: grid;
+  place-items: center;
+  flex: 0 0 auto;
+  width: 34px;
+  height: 34px;
+  border-radius: 10px;
+  background: white;
+  border: 1px solid var(--border);
+}
+
+.practiceModeBanner strong,
+.practiceModeBanner span:not(.practiceModeBannerIcon) {
+  display: block;
+}
+
+.practiceModeBanner strong {
+  font-size: 13px;
+}
+
+.practiceModeBanner div > span {
+  margin-top: 2px;
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.35;
+}
+
+.resultModeLine {
+  margin-top: 10px;
+}
+
+@media (max-width: 410px) {
+  .practiceModeGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .practiceModeCard.wide {
+    grid-column: auto;
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "topicId": "food-nouns-01",
+  "title": "Food nouns",
+  "level": "A1",
+  "kind": "vocabulary",
+  "items": [
+    {
+      "id": "food-nouns-01:banane",
+      "type": "noun",
+      "german": "Banane",
+      "english": "banana",
+      "article": "die",
+      "plural": "Bananen"
+    }
+  ]
+}
