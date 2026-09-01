@@ -1,298 +1,10 @@
 {
-  "generatedAt": "2026-09-01T10:56:26.555Z",
+  "generatedAt": "2026-09-01T11:06:50.634Z",
   "voiceId": "Xb7hH8MSUJpSbSDYk0k2",
   "voiceName": "Alice - Clear, Engaging Educator",
   "modelId": "eleven_multilingual_v2",
   "outputFormat": "mp3_44100_128",
   "files": [
-    {
-      "vocabId": "1",
-      "variant": "full",
-      "text": "die Katze",
-      "path": "audio/vocabulary/1-full.mp3"
-    },
-    {
-      "vocabId": "1",
-      "variant": "word",
-      "text": "Katze",
-      "path": "audio/vocabulary/1-word.mp3"
-    },
-    {
-      "vocabId": "2",
-      "variant": "full",
-      "text": "die Straße",
-      "path": "audio/vocabulary/2-full.mp3"
-    },
-    {
-      "vocabId": "2",
-      "variant": "word",
-      "text": "Straße",
-      "path": "audio/vocabulary/2-word.mp3"
-    },
-    {
-      "vocabId": "3",
-      "variant": "full",
-      "text": "die Wohnung",
-      "path": "audio/vocabulary/3-full.mp3"
-    },
-    {
-      "vocabId": "3",
-      "variant": "word",
-      "text": "Wohnung",
-      "path": "audio/vocabulary/3-word.mp3"
-    },
-    {
-      "vocabId": "4",
-      "variant": "full",
-      "text": "die Flasche",
-      "path": "audio/vocabulary/4-full.mp3"
-    },
-    {
-      "vocabId": "4",
-      "variant": "word",
-      "text": "Flasche",
-      "path": "audio/vocabulary/4-word.mp3"
-    },
-    {
-      "vocabId": "5",
-      "variant": "full",
-      "text": "die Zeitung",
-      "path": "audio/vocabulary/5-full.mp3"
-    },
-    {
-      "vocabId": "5",
-      "variant": "word",
-      "text": "Zeitung",
-      "path": "audio/vocabulary/5-word.mp3"
-    },
-    {
-      "vocabId": "6",
-      "variant": "full",
-      "text": "die Sprache",
-      "path": "audio/vocabulary/6-full.mp3"
-    },
-    {
-      "vocabId": "6",
-      "variant": "word",
-      "text": "Sprache",
-      "path": "audio/vocabulary/6-word.mp3"
-    },
-    {
-      "vocabId": "7",
-      "variant": "full",
-      "text": "die Frage",
-      "path": "audio/vocabulary/7-full.mp3"
-    },
-    {
-      "vocabId": "7",
-      "variant": "word",
-      "text": "Frage",
-      "path": "audio/vocabulary/7-word.mp3"
-    },
-    {
-      "vocabId": "8",
-      "variant": "full",
-      "text": "die Antwort",
-      "path": "audio/vocabulary/8-full.mp3"
-    },
-    {
-      "vocabId": "8",
-      "variant": "word",
-      "text": "Antwort",
-      "path": "audio/vocabulary/8-word.mp3"
-    },
-    {
-      "vocabId": "9",
-      "variant": "full",
-      "text": "die Schule",
-      "path": "audio/vocabulary/9-full.mp3"
-    },
-    {
-      "vocabId": "9",
-      "variant": "word",
-      "text": "Schule",
-      "path": "audio/vocabulary/9-word.mp3"
-    },
-    {
-      "vocabId": "10",
-      "variant": "full",
-      "text": "die Reise",
-      "path": "audio/vocabulary/10-full.mp3"
-    },
-    {
-      "vocabId": "10",
-      "variant": "word",
-      "text": "Reise",
-      "path": "audio/vocabulary/10-word.mp3"
-    },
-    {
-      "vocabId": "11",
-      "variant": "full",
-      "text": "die Tasse",
-      "path": "audio/vocabulary/11-full.mp3"
-    },
-    {
-      "vocabId": "11",
-      "variant": "word",
-      "text": "Tasse",
-      "path": "audio/vocabulary/11-word.mp3"
-    },
-    {
-      "vocabId": "12",
-      "variant": "full",
-      "text": "die Gabel",
-      "path": "audio/vocabulary/12-full.mp3"
-    },
-    {
-      "vocabId": "12",
-      "variant": "word",
-      "text": "Gabel",
-      "path": "audio/vocabulary/12-word.mp3"
-    },
-    {
-      "vocabId": "13",
-      "variant": "full",
-      "text": "die Tochter",
-      "path": "audio/vocabulary/13-full.mp3"
-    },
-    {
-      "vocabId": "13",
-      "variant": "word",
-      "text": "Tochter",
-      "path": "audio/vocabulary/13-word.mp3"
-    },
-    {
-      "vocabId": "14",
-      "variant": "full",
-      "text": "die Tante",
-      "path": "audio/vocabulary/14-full.mp3"
-    },
-    {
-      "vocabId": "14",
-      "variant": "word",
-      "text": "Tante",
-      "path": "audio/vocabulary/14-word.mp3"
-    },
-    {
-      "vocabId": "15",
-      "variant": "full",
-      "text": "die Freundin",
-      "path": "audio/vocabulary/15-full.mp3"
-    },
-    {
-      "vocabId": "15",
-      "variant": "word",
-      "text": "Freundin",
-      "path": "audio/vocabulary/15-word.mp3"
-    },
-    {
-      "vocabId": "16",
-      "variant": "full",
-      "text": "die Lehrerin",
-      "path": "audio/vocabulary/16-full.mp3"
-    },
-    {
-      "vocabId": "16",
-      "variant": "word",
-      "text": "Lehrerin",
-      "path": "audio/vocabulary/16-word.mp3"
-    },
-    {
-      "vocabId": "17",
-      "variant": "full",
-      "text": "die Ärztin",
-      "path": "audio/vocabulary/17-full.mp3"
-    },
-    {
-      "vocabId": "17",
-      "variant": "word",
-      "text": "Ärztin",
-      "path": "audio/vocabulary/17-word.mp3"
-    },
-    {
-      "vocabId": "18",
-      "variant": "full",
-      "text": "die Karte",
-      "path": "audio/vocabulary/18-full.mp3"
-    },
-    {
-      "vocabId": "18",
-      "variant": "word",
-      "text": "Karte",
-      "path": "audio/vocabulary/18-word.mp3"
-    },
-    {
-      "vocabId": "19",
-      "variant": "full",
-      "text": "die Nachricht",
-      "path": "audio/vocabulary/19-full.mp3"
-    },
-    {
-      "vocabId": "19",
-      "variant": "word",
-      "text": "Nachricht",
-      "path": "audio/vocabulary/19-word.mp3"
-    },
-    {
-      "vocabId": "20",
-      "variant": "full",
-      "text": "die Gelegenheit",
-      "path": "audio/vocabulary/20-full.mp3"
-    },
-    {
-      "vocabId": "20",
-      "variant": "word",
-      "text": "Gelegenheit",
-      "path": "audio/vocabulary/20-word.mp3"
-    },
-    {
-      "vocabId": "21",
-      "variant": "full",
-      "text": "die Gesellschaft",
-      "path": "audio/vocabulary/21-full.mp3"
-    },
-    {
-      "vocabId": "21",
-      "variant": "word",
-      "text": "Gesellschaft",
-      "path": "audio/vocabulary/21-word.mp3"
-    },
-    {
-      "vocabId": "22",
-      "variant": "full",
-      "text": "die Entscheidung",
-      "path": "audio/vocabulary/22-full.mp3"
-    },
-    {
-      "vocabId": "22",
-      "variant": "word",
-      "text": "Entscheidung",
-      "path": "audio/vocabulary/22-word.mp3"
-    },
-    {
-      "vocabId": "23",
-      "variant": "full",
-      "text": "die Überraschung",
-      "path": "audio/vocabulary/23-full.mp3"
-    },
-    {
-      "vocabId": "23",
-      "variant": "word",
-      "text": "Überraschung",
-      "path": "audio/vocabulary/23-word.mp3"
-    },
-    {
-      "vocabId": "24",
-      "variant": "full",
-      "text": "die Maschine",
-      "path": "audio/vocabulary/24-full.mp3"
-    },
-    {
-      "vocabId": "24",
-      "variant": "word",
-      "text": "Maschine",
-      "path": "audio/vocabulary/24-word.mp3"
-    },
     {
       "vocabId": "feminine-nouns-01:abfahrt",
       "variant": "full",
@@ -318,6 +30,18 @@
       "path": "audio/vocabulary/feminine-nouns-01--adresse-word.mp3"
     },
     {
+      "vocabId": "feminine-nouns-01:aerztin",
+      "variant": "full",
+      "text": "die Ärztin",
+      "path": "audio/vocabulary/feminine-nouns-01--aerztin-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:aerztin",
+      "variant": "word",
+      "text": "Ärztin",
+      "path": "audio/vocabulary/feminine-nouns-01--aerztin-word.mp3"
+    },
+    {
       "vocabId": "feminine-nouns-01:angst",
       "variant": "full",
       "text": "die Angst",
@@ -328,6 +52,18 @@
       "variant": "word",
       "text": "Angst",
       "path": "audio/vocabulary/feminine-nouns-01--angst-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:antwort",
+      "variant": "full",
+      "text": "die Antwort",
+      "path": "audio/vocabulary/feminine-nouns-01--antwort-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:antwort",
+      "variant": "word",
+      "text": "Antwort",
+      "path": "audio/vocabulary/feminine-nouns-01--antwort-word.mp3"
     },
     {
       "vocabId": "feminine-nouns-01:arbeit",
@@ -462,6 +198,18 @@
       "path": "audio/vocabulary/feminine-nouns-01--einladung-word.mp3"
     },
     {
+      "vocabId": "feminine-nouns-01:entscheidung",
+      "variant": "full",
+      "text": "die Entscheidung",
+      "path": "audio/vocabulary/feminine-nouns-01--entscheidung-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:entscheidung",
+      "variant": "word",
+      "text": "Entscheidung",
+      "path": "audio/vocabulary/feminine-nouns-01--entscheidung-word.mp3"
+    },
+    {
       "vocabId": "feminine-nouns-01:fahrt",
       "variant": "full",
       "text": "die Fahrt",
@@ -510,6 +258,30 @@
       "path": "audio/vocabulary/feminine-nouns-01--firma-word.mp3"
     },
     {
+      "vocabId": "feminine-nouns-01:flasche",
+      "variant": "full",
+      "text": "die Flasche",
+      "path": "audio/vocabulary/feminine-nouns-01--flasche-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:flasche",
+      "variant": "word",
+      "text": "Flasche",
+      "path": "audio/vocabulary/feminine-nouns-01--flasche-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:frage",
+      "variant": "full",
+      "text": "die Frage",
+      "path": "audio/vocabulary/feminine-nouns-01--frage-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:frage",
+      "variant": "word",
+      "text": "Frage",
+      "path": "audio/vocabulary/feminine-nouns-01--frage-word.mp3"
+    },
+    {
       "vocabId": "feminine-nouns-01:freizeit",
       "variant": "full",
       "text": "die Freizeit",
@@ -534,6 +306,18 @@
       "path": "audio/vocabulary/feminine-nouns-01--fremdsprache-word.mp3"
     },
     {
+      "vocabId": "feminine-nouns-01:freundin",
+      "variant": "full",
+      "text": "die Freundin",
+      "path": "audio/vocabulary/feminine-nouns-01--freundin-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:freundin",
+      "variant": "word",
+      "text": "Freundin",
+      "path": "audio/vocabulary/feminine-nouns-01--freundin-word.mp3"
+    },
+    {
       "vocabId": "feminine-nouns-01:freundschaft",
       "variant": "full",
       "text": "die Freundschaft",
@@ -546,6 +330,30 @@
       "path": "audio/vocabulary/feminine-nouns-01--freundschaft-word.mp3"
     },
     {
+      "vocabId": "feminine-nouns-01:gabel",
+      "variant": "full",
+      "text": "die Gabel",
+      "path": "audio/vocabulary/feminine-nouns-01--gabel-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:gabel",
+      "variant": "word",
+      "text": "Gabel",
+      "path": "audio/vocabulary/feminine-nouns-01--gabel-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:gelegenheit",
+      "variant": "full",
+      "text": "die Gelegenheit",
+      "path": "audio/vocabulary/feminine-nouns-01--gelegenheit-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:gelegenheit",
+      "variant": "word",
+      "text": "Gelegenheit",
+      "path": "audio/vocabulary/feminine-nouns-01--gelegenheit-word.mp3"
+    },
+    {
       "vocabId": "feminine-nouns-01:geschwister",
       "variant": "full",
       "text": "die Geschwister",
@@ -556,6 +364,18 @@
       "variant": "word",
       "text": "Geschwister",
       "path": "audio/vocabulary/feminine-nouns-01--geschwister-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:gesellschaft",
+      "variant": "full",
+      "text": "die Gesellschaft",
+      "path": "audio/vocabulary/feminine-nouns-01--gesellschaft-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:gesellschaft",
+      "variant": "word",
+      "text": "Gesellschaft",
+      "path": "audio/vocabulary/feminine-nouns-01--gesellschaft-word.mp3"
     },
     {
       "vocabId": "feminine-nouns-01:gitarre",
@@ -678,6 +498,18 @@
       "path": "audio/vocabulary/feminine-nouns-01--jacke-word.mp3"
     },
     {
+      "vocabId": "feminine-nouns-01:karte",
+      "variant": "full",
+      "text": "die Karte",
+      "path": "audio/vocabulary/feminine-nouns-01--karte-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:karte",
+      "variant": "word",
+      "text": "Karte",
+      "path": "audio/vocabulary/feminine-nouns-01--karte-word.mp3"
+    },
+    {
       "vocabId": "feminine-nouns-01:kasse",
       "variant": "full",
       "text": "die Kasse",
@@ -688,6 +520,18 @@
       "variant": "word",
       "text": "Kasse",
       "path": "audio/vocabulary/feminine-nouns-01--kasse-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:katze",
+      "variant": "full",
+      "text": "die Katze",
+      "path": "audio/vocabulary/feminine-nouns-01--katze-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:katze",
+      "variant": "word",
+      "text": "Katze",
+      "path": "audio/vocabulary/feminine-nouns-01--katze-word.mp3"
     },
     {
       "vocabId": "feminine-nouns-01:kiste",
@@ -736,6 +580,18 @@
       "variant": "word",
       "text": "Küche",
       "path": "audio/vocabulary/feminine-nouns-01--kueche-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:lehrerin",
+      "variant": "full",
+      "text": "die Lehrerin",
+      "path": "audio/vocabulary/feminine-nouns-01--lehrerin-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:lehrerin",
+      "variant": "word",
+      "text": "Lehrerin",
+      "path": "audio/vocabulary/feminine-nouns-01--lehrerin-word.mp3"
     },
     {
       "vocabId": "feminine-nouns-01:limonade",
@@ -796,6 +652,18 @@
       "variant": "word",
       "text": "Marke",
       "path": "audio/vocabulary/feminine-nouns-01--marke-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:maschine",
+      "variant": "full",
+      "text": "die Maschine",
+      "path": "audio/vocabulary/feminine-nouns-01--maschine-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:maschine",
+      "variant": "word",
+      "text": "Maschine",
+      "path": "audio/vocabulary/feminine-nouns-01--maschine-word.mp3"
     },
     {
       "vocabId": "feminine-nouns-01:matratze",
@@ -894,6 +762,18 @@
       "path": "audio/vocabulary/feminine-nouns-01--musikerin-word.mp3"
     },
     {
+      "vocabId": "feminine-nouns-01:nachricht",
+      "variant": "full",
+      "text": "die Nachricht",
+      "path": "audio/vocabulary/feminine-nouns-01--nachricht-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:nachricht",
+      "variant": "word",
+      "text": "Nachricht",
+      "path": "audio/vocabulary/feminine-nouns-01--nachricht-word.mp3"
+    },
+    {
       "vocabId": "feminine-nouns-01:nacht",
       "variant": "full",
       "text": "die Nacht",
@@ -976,6 +856,18 @@
       "variant": "word",
       "text": "Qualität",
       "path": "audio/vocabulary/feminine-nouns-01--qualitaet-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:reise",
+      "variant": "full",
+      "text": "die Reise",
+      "path": "audio/vocabulary/feminine-nouns-01--reise-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:reise",
+      "variant": "word",
+      "text": "Reise",
+      "path": "audio/vocabulary/feminine-nouns-01--reise-word.mp3"
     },
     {
       "vocabId": "feminine-nouns-01:richtung",
@@ -1062,6 +954,18 @@
       "path": "audio/vocabulary/feminine-nouns-01--schuelerin-word.mp3"
     },
     {
+      "vocabId": "feminine-nouns-01:schule",
+      "variant": "full",
+      "text": "die Schule",
+      "path": "audio/vocabulary/feminine-nouns-01--schule-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:schule",
+      "variant": "word",
+      "text": "Schule",
+      "path": "audio/vocabulary/feminine-nouns-01--schule-word.mp3"
+    },
+    {
       "vocabId": "feminine-nouns-01:schwester",
       "variant": "full",
       "text": "die Schwester",
@@ -1122,6 +1026,18 @@
       "path": "audio/vocabulary/feminine-nouns-01--spaghetti-word.mp3"
     },
     {
+      "vocabId": "feminine-nouns-01:sprache",
+      "variant": "full",
+      "text": "die Sprache",
+      "path": "audio/vocabulary/feminine-nouns-01--sprache-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:sprache",
+      "variant": "word",
+      "text": "Sprache",
+      "path": "audio/vocabulary/feminine-nouns-01--sprache-word.mp3"
+    },
+    {
       "vocabId": "feminine-nouns-01:stadt",
       "variant": "full",
       "text": "die Stadt",
@@ -1156,6 +1072,18 @@
       "variant": "word",
       "text": "Stirn",
       "path": "audio/vocabulary/feminine-nouns-01--stirn-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:strasse",
+      "variant": "full",
+      "text": "die Straße",
+      "path": "audio/vocabulary/feminine-nouns-01--strasse-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:strasse",
+      "variant": "word",
+      "text": "Straße",
+      "path": "audio/vocabulary/feminine-nouns-01--strasse-word.mp3"
     },
     {
       "vocabId": "feminine-nouns-01:studentin",
@@ -1206,6 +1134,42 @@
       "path": "audio/vocabulary/feminine-nouns-01--tafel-word.mp3"
     },
     {
+      "vocabId": "feminine-nouns-01:tante",
+      "variant": "full",
+      "text": "die Tante",
+      "path": "audio/vocabulary/feminine-nouns-01--tante-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:tante",
+      "variant": "word",
+      "text": "Tante",
+      "path": "audio/vocabulary/feminine-nouns-01--tante-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:tasse",
+      "variant": "full",
+      "text": "die Tasse",
+      "path": "audio/vocabulary/feminine-nouns-01--tasse-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:tasse",
+      "variant": "word",
+      "text": "Tasse",
+      "path": "audio/vocabulary/feminine-nouns-01--tasse-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:tochter",
+      "variant": "full",
+      "text": "die Tochter",
+      "path": "audio/vocabulary/feminine-nouns-01--tochter-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:tochter",
+      "variant": "word",
+      "text": "Tochter",
+      "path": "audio/vocabulary/feminine-nouns-01--tochter-word.mp3"
+    },
+    {
       "vocabId": "feminine-nouns-01:tuer",
       "variant": "full",
       "text": "die Tür",
@@ -1228,6 +1192,18 @@
       "variant": "word",
       "text": "U-Bahn",
       "path": "audio/vocabulary/feminine-nouns-01--u-bahn-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:ueberraschung",
+      "variant": "full",
+      "text": "die Überraschung",
+      "path": "audio/vocabulary/feminine-nouns-01--ueberraschung-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:ueberraschung",
+      "variant": "word",
+      "text": "Überraschung",
+      "path": "audio/vocabulary/feminine-nouns-01--ueberraschung-word.mp3"
     },
     {
       "vocabId": "feminine-nouns-01:uebung",
@@ -1302,6 +1278,18 @@
       "path": "audio/vocabulary/feminine-nouns-01--wand-word.mp3"
     },
     {
+      "vocabId": "feminine-nouns-01:wohnung",
+      "variant": "full",
+      "text": "die Wohnung",
+      "path": "audio/vocabulary/feminine-nouns-01--wohnung-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:wohnung",
+      "variant": "word",
+      "text": "Wohnung",
+      "path": "audio/vocabulary/feminine-nouns-01--wohnung-word.mp3"
+    },
+    {
       "vocabId": "feminine-nouns-01:zahl",
       "variant": "full",
       "text": "die Zahl",
@@ -1324,6 +1312,18 @@
       "variant": "word",
       "text": "Zeit",
       "path": "audio/vocabulary/feminine-nouns-01--zeit-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:zeitung",
+      "variant": "full",
+      "text": "die Zeitung",
+      "path": "audio/vocabulary/feminine-nouns-01--zeitung-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:zeitung",
+      "variant": "word",
+      "text": "Zeitung",
+      "path": "audio/vocabulary/feminine-nouns-01--zeitung-word.mp3"
     },
     {
       "vocabId": "feminine-nouns-01:zigarette",

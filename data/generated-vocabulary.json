@@ -1,269 +1,5 @@
 [
   {
-    "id": "1",
-    "type": "noun",
-    "german": "Katze",
-    "english": "cat",
-    "article": "die",
-    "plural": "Katzen",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "2",
-    "type": "noun",
-    "german": "Straße",
-    "english": "street",
-    "article": "die",
-    "plural": "Straßen",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "3",
-    "type": "noun",
-    "german": "Wohnung",
-    "english": "apartment / flat",
-    "article": "die",
-    "plural": "Wohnungen",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "4",
-    "type": "noun",
-    "german": "Flasche",
-    "english": "bottle",
-    "article": "die",
-    "plural": "Flaschen",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "5",
-    "type": "noun",
-    "german": "Zeitung",
-    "english": "newspaper",
-    "article": "die",
-    "plural": "Zeitungen",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "6",
-    "type": "noun",
-    "german": "Sprache",
-    "english": "language",
-    "article": "die",
-    "plural": "Sprachen",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "7",
-    "type": "noun",
-    "german": "Frage",
-    "english": "question",
-    "article": "die",
-    "plural": "Fragen",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "8",
-    "type": "noun",
-    "german": "Antwort",
-    "english": "answer",
-    "article": "die",
-    "plural": "Antworten",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "9",
-    "type": "noun",
-    "german": "Schule",
-    "english": "school",
-    "article": "die",
-    "plural": "Schulen",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "10",
-    "type": "noun",
-    "german": "Reise",
-    "english": "trip / journey",
-    "article": "die",
-    "plural": "Reisen",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "11",
-    "type": "noun",
-    "german": "Tasse",
-    "english": "cup",
-    "article": "die",
-    "plural": "Tassen",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "12",
-    "type": "noun",
-    "german": "Gabel",
-    "english": "fork",
-    "article": "die",
-    "plural": "Gabeln",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "13",
-    "type": "noun",
-    "german": "Tochter",
-    "english": "daughter",
-    "article": "die",
-    "plural": "Töchter",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "14",
-    "type": "noun",
-    "german": "Tante",
-    "english": "aunt",
-    "article": "die",
-    "plural": "Tanten",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "15",
-    "type": "noun",
-    "german": "Freundin",
-    "english": "female friend / girlfriend",
-    "article": "die",
-    "plural": "Freundinnen",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "16",
-    "type": "noun",
-    "german": "Lehrerin",
-    "english": "female teacher",
-    "article": "die",
-    "plural": "Lehrerinnen",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "17",
-    "type": "noun",
-    "german": "Ärztin",
-    "english": "female doctor",
-    "article": "die",
-    "plural": "Ärztinnen",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "18",
-    "type": "noun",
-    "german": "Karte",
-    "english": "card / map",
-    "article": "die",
-    "plural": "Karten",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "19",
-    "type": "noun",
-    "german": "Nachricht",
-    "english": "message / news",
-    "article": "die",
-    "plural": "Nachrichten",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "20",
-    "type": "noun",
-    "german": "Gelegenheit",
-    "english": "opportunity / chance",
-    "article": "die",
-    "plural": "Gelegenheiten",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "21",
-    "type": "noun",
-    "german": "Gesellschaft",
-    "english": "society / company",
-    "article": "die",
-    "plural": "Gesellschaften",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "22",
-    "type": "noun",
-    "german": "Entscheidung",
-    "english": "decision",
-    "article": "die",
-    "plural": "Entscheidungen",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "23",
-    "type": "noun",
-    "german": "Überraschung",
-    "english": "surprise",
-    "article": "die",
-    "plural": "Überraschungen",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
-    "id": "24",
-    "type": "noun",
-    "german": "Maschine",
-    "english": "machine",
-    "article": "die",
-    "plural": "Maschinen",
-    "level": "A1",
-    "topicId": "feminine-nouns-01",
-    "topicTitle": "Feminine Nouns — Complete Page"
-  },
-  {
     "id": "feminine-nouns-01:abfahrt",
     "type": "noun",
     "german": "Abfahrt",
@@ -286,12 +22,34 @@
     "topicTitle": "Feminine Nouns — Complete Page"
   },
   {
+    "id": "feminine-nouns-01:aerztin",
+    "type": "noun",
+    "german": "Ärztin",
+    "english": "female doctor",
+    "article": "die",
+    "plural": "Ärztinnen",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
     "id": "feminine-nouns-01:angst",
     "type": "noun",
     "german": "Angst",
     "english": "fear / anxiety",
     "article": "die",
     "plural": "Ängste",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
+    "id": "feminine-nouns-01:antwort",
+    "type": "noun",
+    "german": "Antwort",
+    "english": "answer",
+    "article": "die",
+    "plural": "Antworten",
     "level": "A1",
     "topicId": "feminine-nouns-01",
     "topicTitle": "Feminine Nouns — Complete Page"
@@ -418,6 +176,17 @@
     "topicTitle": "Feminine Nouns — Complete Page"
   },
   {
+    "id": "feminine-nouns-01:entscheidung",
+    "type": "noun",
+    "german": "Entscheidung",
+    "english": "decision",
+    "article": "die",
+    "plural": "Entscheidungen",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
     "id": "feminine-nouns-01:fahrt",
     "type": "noun",
     "german": "Fahrt",
@@ -462,6 +231,28 @@
     "topicTitle": "Feminine Nouns — Complete Page"
   },
   {
+    "id": "feminine-nouns-01:flasche",
+    "type": "noun",
+    "german": "Flasche",
+    "english": "bottle",
+    "article": "die",
+    "plural": "Flaschen",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
+    "id": "feminine-nouns-01:frage",
+    "type": "noun",
+    "german": "Frage",
+    "english": "question",
+    "article": "die",
+    "plural": "Fragen",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
     "id": "feminine-nouns-01:freizeit",
     "type": "noun",
     "german": "Freizeit",
@@ -484,6 +275,17 @@
     "topicTitle": "Feminine Nouns — Complete Page"
   },
   {
+    "id": "feminine-nouns-01:freundin",
+    "type": "noun",
+    "german": "Freundin",
+    "english": "female friend / girlfriend",
+    "article": "die",
+    "plural": "Freundinnen",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
     "id": "feminine-nouns-01:freundschaft",
     "type": "noun",
     "german": "Freundschaft",
@@ -495,12 +297,45 @@
     "topicTitle": "Feminine Nouns — Complete Page"
   },
   {
+    "id": "feminine-nouns-01:gabel",
+    "type": "noun",
+    "german": "Gabel",
+    "english": "fork",
+    "article": "die",
+    "plural": "Gabeln",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
+    "id": "feminine-nouns-01:gelegenheit",
+    "type": "noun",
+    "german": "Gelegenheit",
+    "english": "opportunity / chance",
+    "article": "die",
+    "plural": "Gelegenheiten",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
     "id": "feminine-nouns-01:geschwister",
     "type": "noun",
     "german": "Geschwister",
     "english": "siblings",
     "article": "die",
     "plural": null,
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
+    "id": "feminine-nouns-01:gesellschaft",
+    "type": "noun",
+    "german": "Gesellschaft",
+    "english": "society / company",
+    "article": "die",
+    "plural": "Gesellschaften",
     "level": "A1",
     "topicId": "feminine-nouns-01",
     "topicTitle": "Feminine Nouns — Complete Page"
@@ -616,12 +451,34 @@
     "topicTitle": "Feminine Nouns — Complete Page"
   },
   {
+    "id": "feminine-nouns-01:karte",
+    "type": "noun",
+    "german": "Karte",
+    "english": "card / map",
+    "article": "die",
+    "plural": "Karten",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
     "id": "feminine-nouns-01:kasse",
     "type": "noun",
     "german": "Kasse",
     "english": "cash register / checkout",
     "article": "die",
     "plural": "Kassen",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
+    "id": "feminine-nouns-01:katze",
+    "type": "noun",
+    "german": "Katze",
+    "english": "cat",
+    "article": "die",
+    "plural": "Katzen",
     "level": "A1",
     "topicId": "feminine-nouns-01",
     "topicTitle": "Feminine Nouns — Complete Page"
@@ -666,6 +523,17 @@
     "english": "kitchen",
     "article": "die",
     "plural": "Küchen",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
+    "id": "feminine-nouns-01:lehrerin",
+    "type": "noun",
+    "german": "Lehrerin",
+    "english": "female teacher",
+    "article": "die",
+    "plural": "Lehrerinnen",
     "level": "A1",
     "topicId": "feminine-nouns-01",
     "topicTitle": "Feminine Nouns — Complete Page"
@@ -721,6 +589,17 @@
     "english": "brand / make",
     "article": "die",
     "plural": "Marken",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
+    "id": "feminine-nouns-01:maschine",
+    "type": "noun",
+    "german": "Maschine",
+    "english": "machine",
+    "article": "die",
+    "plural": "Maschinen",
     "level": "A1",
     "topicId": "feminine-nouns-01",
     "topicTitle": "Feminine Nouns — Complete Page"
@@ -814,6 +693,17 @@
     "topicTitle": "Feminine Nouns — Complete Page"
   },
   {
+    "id": "feminine-nouns-01:nachricht",
+    "type": "noun",
+    "german": "Nachricht",
+    "english": "message / news",
+    "article": "die",
+    "plural": "Nachrichten",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
     "id": "feminine-nouns-01:nacht",
     "type": "noun",
     "german": "Nacht",
@@ -886,6 +776,17 @@
     "english": "quality",
     "article": "die",
     "plural": "Qualitäten",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
+    "id": "feminine-nouns-01:reise",
+    "type": "noun",
+    "german": "Reise",
+    "english": "trip / journey",
+    "article": "die",
+    "plural": "Reisen",
     "level": "A1",
     "topicId": "feminine-nouns-01",
     "topicTitle": "Feminine Nouns — Complete Page"
@@ -968,6 +869,17 @@
     "topicTitle": "Feminine Nouns — Complete Page"
   },
   {
+    "id": "feminine-nouns-01:schule",
+    "type": "noun",
+    "german": "Schule",
+    "english": "school",
+    "article": "die",
+    "plural": "Schulen",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
     "id": "feminine-nouns-01:schwester",
     "type": "noun",
     "german": "Schwester",
@@ -1023,6 +935,17 @@
     "topicTitle": "Feminine Nouns — Complete Page"
   },
   {
+    "id": "feminine-nouns-01:sprache",
+    "type": "noun",
+    "german": "Sprache",
+    "english": "language",
+    "article": "die",
+    "plural": "Sprachen",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
     "id": "feminine-nouns-01:stadt",
     "type": "noun",
     "german": "Stadt",
@@ -1051,6 +974,17 @@
     "english": "forehead",
     "article": "die",
     "plural": "Stirnen",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
+    "id": "feminine-nouns-01:strasse",
+    "type": "noun",
+    "german": "Straße",
+    "english": "street",
+    "article": "die",
+    "plural": "Straßen",
     "level": "A1",
     "topicId": "feminine-nouns-01",
     "topicTitle": "Feminine Nouns — Complete Page"
@@ -1100,6 +1034,39 @@
     "topicTitle": "Feminine Nouns — Complete Page"
   },
   {
+    "id": "feminine-nouns-01:tante",
+    "type": "noun",
+    "german": "Tante",
+    "english": "aunt",
+    "article": "die",
+    "plural": "Tanten",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
+    "id": "feminine-nouns-01:tasse",
+    "type": "noun",
+    "german": "Tasse",
+    "english": "cup",
+    "article": "die",
+    "plural": "Tassen",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
+    "id": "feminine-nouns-01:tochter",
+    "type": "noun",
+    "german": "Tochter",
+    "english": "daughter",
+    "article": "die",
+    "plural": "Töchter",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
     "id": "feminine-nouns-01:tuer",
     "type": "noun",
     "german": "Tür",
@@ -1117,6 +1084,17 @@
     "english": "subway / underground",
     "article": "die",
     "plural": "U-Bahnen",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
+    "id": "feminine-nouns-01:ueberraschung",
+    "type": "noun",
+    "german": "Überraschung",
+    "english": "surprise",
+    "article": "die",
+    "plural": "Überraschungen",
     "level": "A1",
     "topicId": "feminine-nouns-01",
     "topicTitle": "Feminine Nouns — Complete Page"
@@ -1188,6 +1166,17 @@
     "topicTitle": "Feminine Nouns — Complete Page"
   },
   {
+    "id": "feminine-nouns-01:wohnung",
+    "type": "noun",
+    "german": "Wohnung",
+    "english": "apartment / flat",
+    "article": "die",
+    "plural": "Wohnungen",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
     "id": "feminine-nouns-01:zahl",
     "type": "noun",
     "german": "Zahl",
@@ -1205,6 +1194,17 @@
     "english": "time",
     "article": "die",
     "plural": "Zeiten",
+    "level": "A1",
+    "topicId": "feminine-nouns-01",
+    "topicTitle": "Feminine Nouns — Complete Page"
+  },
+  {
+    "id": "feminine-nouns-01:zeitung",
+    "type": "noun",
+    "german": "Zeitung",
+    "english": "newspaper",
+    "article": "die",
+    "plural": "Zeitungen",
     "level": "A1",
     "topicId": "feminine-nouns-01",
     "topicTitle": "Feminine Nouns — Complete Page"

@@ -21,7 +21,7 @@
       "plural": "Damen"
     },
     {
-      "id": "1",
+      "id": "feminine-nouns-01:katze",
       "type": "noun",
       "german": "Katze",
       "english": "cat",
@@ -61,7 +61,7 @@
       "plural": "Prüfungen"
     },
     {
-      "id": "7",
+      "id": "feminine-nouns-01:frage",
       "type": "noun",
       "german": "Frage",
       "english": "question",
@@ -101,7 +101,7 @@
       "plural": "Ecken"
     },
     {
-      "id": "2",
+      "id": "feminine-nouns-01:strasse",
       "type": "noun",
       "german": "Straße",
       "english": "street",
@@ -213,7 +213,7 @@
       "plural": "Tafeln"
     },
     {
-      "id": "24",
+      "id": "feminine-nouns-01:maschine",
       "type": "noun",
       "german": "Maschine",
       "english": "machine",
@@ -229,7 +229,7 @@
       "plural": null
     },
     {
-      "id": "11",
+      "id": "feminine-nouns-01:tasse",
       "type": "noun",
       "german": "Tasse",
       "english": "cup",
@@ -253,7 +253,7 @@
       "plural": "Krankenschwestern"
     },
     {
-      "id": "12",
+      "id": "feminine-nouns-01:gabel",
       "type": "noun",
       "german": "Gabel",
       "english": "fork",
@@ -317,7 +317,7 @@
       "plural": "Zungen"
     },
     {
-      "id": "6",
+      "id": "feminine-nouns-01:sprache",
       "type": "noun",
       "german": "Sprache",
       "english": "language",
@@ -341,7 +341,7 @@
       "plural": "Studentinnen"
     },
     {
-      "id": "15",
+      "id": "feminine-nouns-01:freundin",
       "type": "noun",
       "german": "Freundin",
       "english": "female friend / girlfriend",
@@ -373,7 +373,7 @@
       "plural": "Uhren"
     },
     {
-      "id": "8",
+      "id": "feminine-nouns-01:antwort",
       "type": "noun",
       "german": "Antwort",
       "english": "answer",
@@ -429,7 +429,7 @@
       "plural": "Sorgen"
     },
     {
-      "id": "13",
+      "id": "feminine-nouns-01:tochter",
       "type": "noun",
       "german": "Tochter",
       "english": "daughter",
@@ -445,7 +445,7 @@
       "plural": null
     },
     {
-      "id": "9",
+      "id": "feminine-nouns-01:schule",
       "type": "noun",
       "german": "Schule",
       "english": "school",
@@ -453,7 +453,7 @@
       "plural": "Schulen"
     },
     {
-      "id": "19",
+      "id": "feminine-nouns-01:nachricht",
       "type": "noun",
       "german": "Nachricht",
       "english": "message / news",
@@ -477,7 +477,7 @@
       "plural": "Scheren"
     },
     {
-      "id": "10",
+      "id": "feminine-nouns-01:reise",
       "type": "noun",
       "german": "Reise",
       "english": "trip / journey",
@@ -485,7 +485,7 @@
       "plural": "Reisen"
     },
     {
-      "id": "23",
+      "id": "feminine-nouns-01:ueberraschung",
       "type": "noun",
       "german": "Überraschung",
       "english": "surprise",
@@ -517,7 +517,7 @@
       "plural": "Hosen"
     },
     {
-      "id": "20",
+      "id": "feminine-nouns-01:gelegenheit",
       "type": "noun",
       "german": "Gelegenheit",
       "english": "opportunity / chance",
@@ -549,7 +549,7 @@
       "plural": null
     },
     {
-      "id": "17",
+      "id": "feminine-nouns-01:aerztin",
       "type": "noun",
       "german": "Ärztin",
       "english": "female doctor",
@@ -573,7 +573,7 @@
       "plural": "Sekretärinnen"
     },
     {
-      "id": "18",
+      "id": "feminine-nouns-01:karte",
       "type": "noun",
       "german": "Karte",
       "english": "card / map",
@@ -621,7 +621,7 @@
       "plural": null
     },
     {
-      "id": "5",
+      "id": "feminine-nouns-01:zeitung",
       "type": "noun",
       "german": "Zeitung",
       "english": "newspaper",
@@ -637,7 +637,7 @@
       "plural": "Übungen"
     },
     {
-      "id": "21",
+      "id": "feminine-nouns-01:gesellschaft",
       "type": "noun",
       "german": "Gesellschaft",
       "english": "society / company",
@@ -733,7 +733,7 @@
       "plural": "Hausfrauen"
     },
     {
-      "id": "14",
+      "id": "feminine-nouns-01:tante",
       "type": "noun",
       "german": "Tante",
       "english": "aunt",
@@ -741,7 +741,7 @@
       "plural": "Tanten"
     },
     {
-      "id": "16",
+      "id": "feminine-nouns-01:lehrerin",
       "type": "noun",
       "german": "Lehrerin",
       "english": "female teacher",
@@ -749,7 +749,7 @@
       "plural": "Lehrerinnen"
     },
     {
-      "id": "3",
+      "id": "feminine-nouns-01:wohnung",
       "type": "noun",
       "german": "Wohnung",
       "english": "apartment / flat",
@@ -805,7 +805,7 @@
       "plural": null
     },
     {
-      "id": "22",
+      "id": "feminine-nouns-01:entscheidung",
       "type": "noun",
       "german": "Entscheidung",
       "english": "decision",
@@ -829,7 +829,7 @@
       "plural": "Vasen"
     },
     {
-      "id": "4",
+      "id": "feminine-nouns-01:flasche",
       "type": "noun",
       "german": "Flasche",
       "english": "bottle",
