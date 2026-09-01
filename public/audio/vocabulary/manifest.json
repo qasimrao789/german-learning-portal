@@ -1,0 +1,1569 @@
+{
+  "generatedAt": "2026-09-01T10:32:16.227Z",
+  "voiceId": "Xb7hH8MSUJpSbSDYk0k2",
+  "voiceName": "Alice - Clear, Engaging Educator",
+  "modelId": "eleven_multilingual_v2",
+  "outputFormat": "mp3_44100_128",
+  "files": [
+    {
+      "vocabId": "1",
+      "variant": "full",
+      "text": "die Katze",
+      "path": "audio/vocabulary/1-full.mp3"
+    },
+    {
+      "vocabId": "1",
+      "variant": "word",
+      "text": "Katze",
+      "path": "audio/vocabulary/1-word.mp3"
+    },
+    {
+      "vocabId": "2",
+      "variant": "full",
+      "text": "die Straße",
+      "path": "audio/vocabulary/2-full.mp3"
+    },
+    {
+      "vocabId": "2",
+      "variant": "word",
+      "text": "Straße",
+      "path": "audio/vocabulary/2-word.mp3"
+    },
+    {
+      "vocabId": "3",
+      "variant": "full",
+      "text": "die Wohnung",
+      "path": "audio/vocabulary/3-full.mp3"
+    },
+    {
+      "vocabId": "3",
+      "variant": "word",
+      "text": "Wohnung",
+      "path": "audio/vocabulary/3-word.mp3"
+    },
+    {
+      "vocabId": "4",
+      "variant": "full",
+      "text": "die Flasche",
+      "path": "audio/vocabulary/4-full.mp3"
+    },
+    {
+      "vocabId": "4",
+      "variant": "word",
+      "text": "Flasche",
+      "path": "audio/vocabulary/4-word.mp3"
+    },
+    {
+      "vocabId": "5",
+      "variant": "full",
+      "text": "die Zeitung",
+      "path": "audio/vocabulary/5-full.mp3"
+    },
+    {
+      "vocabId": "5",
+      "variant": "word",
+      "text": "Zeitung",
+      "path": "audio/vocabulary/5-word.mp3"
+    },
+    {
+      "vocabId": "6",
+      "variant": "full",
+      "text": "die Sprache",
+      "path": "audio/vocabulary/6-full.mp3"
+    },
+    {
+      "vocabId": "6",
+      "variant": "word",
+      "text": "Sprache",
+      "path": "audio/vocabulary/6-word.mp3"
+    },
+    {
+      "vocabId": "7",
+      "variant": "full",
+      "text": "die Frage",
+      "path": "audio/vocabulary/7-full.mp3"
+    },
+    {
+      "vocabId": "7",
+      "variant": "word",
+      "text": "Frage",
+      "path": "audio/vocabulary/7-word.mp3"
+    },
+    {
+      "vocabId": "8",
+      "variant": "full",
+      "text": "die Antwort",
+      "path": "audio/vocabulary/8-full.mp3"
+    },
+    {
+      "vocabId": "8",
+      "variant": "word",
+      "text": "Antwort",
+      "path": "audio/vocabulary/8-word.mp3"
+    },
+    {
+      "vocabId": "9",
+      "variant": "full",
+      "text": "die Schule",
+      "path": "audio/vocabulary/9-full.mp3"
+    },
+    {
+      "vocabId": "9",
+      "variant": "word",
+      "text": "Schule",
+      "path": "audio/vocabulary/9-word.mp3"
+    },
+    {
+      "vocabId": "10",
+      "variant": "full",
+      "text": "die Reise",
+      "path": "audio/vocabulary/10-full.mp3"
+    },
+    {
+      "vocabId": "10",
+      "variant": "word",
+      "text": "Reise",
+      "path": "audio/vocabulary/10-word.mp3"
+    },
+    {
+      "vocabId": "11",
+      "variant": "full",
+      "text": "die Tasse",
+      "path": "audio/vocabulary/11-full.mp3"
+    },
+    {
+      "vocabId": "11",
+      "variant": "word",
+      "text": "Tasse",
+      "path": "audio/vocabulary/11-word.mp3"
+    },
+    {
+      "vocabId": "12",
+      "variant": "full",
+      "text": "die Gabel",
+      "path": "audio/vocabulary/12-full.mp3"
+    },
+    {
+      "vocabId": "12",
+      "variant": "word",
+      "text": "Gabel",
+      "path": "audio/vocabulary/12-word.mp3"
+    },
+    {
+      "vocabId": "13",
+      "variant": "full",
+      "text": "die Tochter",
+      "path": "audio/vocabulary/13-full.mp3"
+    },
+    {
+      "vocabId": "13",
+      "variant": "word",
+      "text": "Tochter",
+      "path": "audio/vocabulary/13-word.mp3"
+    },
+    {
+      "vocabId": "14",
+      "variant": "full",
+      "text": "die Tante",
+      "path": "audio/vocabulary/14-full.mp3"
+    },
+    {
+      "vocabId": "14",
+      "variant": "word",
+      "text": "Tante",
+      "path": "audio/vocabulary/14-word.mp3"
+    },
+    {
+      "vocabId": "15",
+      "variant": "full",
+      "text": "die Freundin",
+      "path": "audio/vocabulary/15-full.mp3"
+    },
+    {
+      "vocabId": "15",
+      "variant": "word",
+      "text": "Freundin",
+      "path": "audio/vocabulary/15-word.mp3"
+    },
+    {
+      "vocabId": "16",
+      "variant": "full",
+      "text": "die Lehrerin",
+      "path": "audio/vocabulary/16-full.mp3"
+    },
+    {
+      "vocabId": "16",
+      "variant": "word",
+      "text": "Lehrerin",
+      "path": "audio/vocabulary/16-word.mp3"
+    },
+    {
+      "vocabId": "17",
+      "variant": "full",
+      "text": "die Ärztin",
+      "path": "audio/vocabulary/17-full.mp3"
+    },
+    {
+      "vocabId": "17",
+      "variant": "word",
+      "text": "Ärztin",
+      "path": "audio/vocabulary/17-word.mp3"
+    },
+    {
+      "vocabId": "18",
+      "variant": "full",
+      "text": "die Karte",
+      "path": "audio/vocabulary/18-full.mp3"
+    },
+    {
+      "vocabId": "18",
+      "variant": "word",
+      "text": "Karte",
+      "path": "audio/vocabulary/18-word.mp3"
+    },
+    {
+      "vocabId": "19",
+      "variant": "full",
+      "text": "die Nachricht",
+      "path": "audio/vocabulary/19-full.mp3"
+    },
+    {
+      "vocabId": "19",
+      "variant": "word",
+      "text": "Nachricht",
+      "path": "audio/vocabulary/19-word.mp3"
+    },
+    {
+      "vocabId": "20",
+      "variant": "full",
+      "text": "die Gelegenheit",
+      "path": "audio/vocabulary/20-full.mp3"
+    },
+    {
+      "vocabId": "20",
+      "variant": "word",
+      "text": "Gelegenheit",
+      "path": "audio/vocabulary/20-word.mp3"
+    },
+    {
+      "vocabId": "21",
+      "variant": "full",
+      "text": "die Gesellschaft",
+      "path": "audio/vocabulary/21-full.mp3"
+    },
+    {
+      "vocabId": "21",
+      "variant": "word",
+      "text": "Gesellschaft",
+      "path": "audio/vocabulary/21-word.mp3"
+    },
+    {
+      "vocabId": "22",
+      "variant": "full",
+      "text": "die Entscheidung",
+      "path": "audio/vocabulary/22-full.mp3"
+    },
+    {
+      "vocabId": "22",
+      "variant": "word",
+      "text": "Entscheidung",
+      "path": "audio/vocabulary/22-word.mp3"
+    },
+    {
+      "vocabId": "23",
+      "variant": "full",
+      "text": "die Überraschung",
+      "path": "audio/vocabulary/23-full.mp3"
+    },
+    {
+      "vocabId": "23",
+      "variant": "word",
+      "text": "Überraschung",
+      "path": "audio/vocabulary/23-word.mp3"
+    },
+    {
+      "vocabId": "24",
+      "variant": "full",
+      "text": "die Maschine",
+      "path": "audio/vocabulary/24-full.mp3"
+    },
+    {
+      "vocabId": "24",
+      "variant": "word",
+      "text": "Maschine",
+      "path": "audio/vocabulary/24-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:abend",
+      "variant": "full",
+      "text": "der Abend",
+      "path": "audio/vocabulary/masculine-nouns-01--abend-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:abend",
+      "variant": "word",
+      "text": "Abend",
+      "path": "audio/vocabulary/masculine-nouns-01--abend-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:absender",
+      "variant": "full",
+      "text": "der Absender",
+      "path": "audio/vocabulary/masculine-nouns-01--absender-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:absender",
+      "variant": "word",
+      "text": "Absender",
+      "path": "audio/vocabulary/masculine-nouns-01--absender-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:apfel",
+      "variant": "full",
+      "text": "der Apfel",
+      "path": "audio/vocabulary/masculine-nouns-01--apfel-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:apfel",
+      "variant": "word",
+      "text": "Apfel",
+      "path": "audio/vocabulary/masculine-nouns-01--apfel-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:arbeiter",
+      "variant": "full",
+      "text": "der Arbeiter",
+      "path": "audio/vocabulary/masculine-nouns-01--arbeiter-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:arbeiter",
+      "variant": "word",
+      "text": "Arbeiter",
+      "path": "audio/vocabulary/masculine-nouns-01--arbeiter-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:arm",
+      "variant": "full",
+      "text": "der Arm",
+      "path": "audio/vocabulary/masculine-nouns-01--arm-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:arm",
+      "variant": "word",
+      "text": "Arm",
+      "path": "audio/vocabulary/masculine-nouns-01--arm-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:arzt",
+      "variant": "full",
+      "text": "der Arzt",
+      "path": "audio/vocabulary/masculine-nouns-01--arzt-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:arzt",
+      "variant": "word",
+      "text": "Arzt",
+      "path": "audio/vocabulary/masculine-nouns-01--arzt-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:bahnhof",
+      "variant": "full",
+      "text": "der Bahnhof",
+      "path": "audio/vocabulary/masculine-nouns-01--bahnhof-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:bahnhof",
+      "variant": "word",
+      "text": "Bahnhof",
+      "path": "audio/vocabulary/masculine-nouns-01--bahnhof-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:ball",
+      "variant": "full",
+      "text": "der Ball",
+      "path": "audio/vocabulary/masculine-nouns-01--ball-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:ball",
+      "variant": "word",
+      "text": "Ball",
+      "path": "audio/vocabulary/masculine-nouns-01--ball-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:bart",
+      "variant": "full",
+      "text": "der Bart",
+      "path": "audio/vocabulary/masculine-nouns-01--bart-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:bart",
+      "variant": "word",
+      "text": "Bart",
+      "path": "audio/vocabulary/masculine-nouns-01--bart-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:bauch",
+      "variant": "full",
+      "text": "der Bauch",
+      "path": "audio/vocabulary/masculine-nouns-01--bauch-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:bauch",
+      "variant": "word",
+      "text": "Bauch",
+      "path": "audio/vocabulary/masculine-nouns-01--bauch-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:bauer",
+      "variant": "full",
+      "text": "der Bauer",
+      "path": "audio/vocabulary/masculine-nouns-01--bauer-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:bauer",
+      "variant": "word",
+      "text": "Bauer",
+      "path": "audio/vocabulary/masculine-nouns-01--bauer-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:beamte",
+      "variant": "full",
+      "text": "der Beamte",
+      "path": "audio/vocabulary/masculine-nouns-01--beamte-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:beamte",
+      "variant": "word",
+      "text": "Beamte",
+      "path": "audio/vocabulary/masculine-nouns-01--beamte-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:beruf",
+      "variant": "full",
+      "text": "der Beruf",
+      "path": "audio/vocabulary/masculine-nouns-01--beruf-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:beruf",
+      "variant": "word",
+      "text": "Beruf",
+      "path": "audio/vocabulary/masculine-nouns-01--beruf-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:brief",
+      "variant": "full",
+      "text": "der Brief",
+      "path": "audio/vocabulary/masculine-nouns-01--brief-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:brief",
+      "variant": "word",
+      "text": "Brief",
+      "path": "audio/vocabulary/masculine-nouns-01--brief-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:bruder",
+      "variant": "full",
+      "text": "der Bruder",
+      "path": "audio/vocabulary/masculine-nouns-01--bruder-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:bruder",
+      "variant": "word",
+      "text": "Bruder",
+      "path": "audio/vocabulary/masculine-nouns-01--bruder-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:bus",
+      "variant": "full",
+      "text": "der Bus",
+      "path": "audio/vocabulary/masculine-nouns-01--bus-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:bus",
+      "variant": "word",
+      "text": "Bus",
+      "path": "audio/vocabulary/masculine-nouns-01--bus-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:computer",
+      "variant": "full",
+      "text": "der Computer",
+      "path": "audio/vocabulary/masculine-nouns-01--computer-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:computer",
+      "variant": "word",
+      "text": "Computer",
+      "path": "audio/vocabulary/masculine-nouns-01--computer-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:deutschkurs",
+      "variant": "full",
+      "text": "der Deutschkurs",
+      "path": "audio/vocabulary/masculine-nouns-01--deutschkurs-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:deutschkurs",
+      "variant": "word",
+      "text": "Deutschkurs",
+      "path": "audio/vocabulary/masculine-nouns-01--deutschkurs-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:dolmetscher",
+      "variant": "full",
+      "text": "der Dolmetscher",
+      "path": "audio/vocabulary/masculine-nouns-01--dolmetscher-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:dolmetscher",
+      "variant": "word",
+      "text": "Dolmetscher",
+      "path": "audio/vocabulary/masculine-nouns-01--dolmetscher-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:fahrer",
+      "variant": "full",
+      "text": "der Fahrer",
+      "path": "audio/vocabulary/masculine-nouns-01--fahrer-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:fahrer",
+      "variant": "word",
+      "text": "Fahrer",
+      "path": "audio/vocabulary/masculine-nouns-01--fahrer-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:fahrplan",
+      "variant": "full",
+      "text": "der Fahrplan",
+      "path": "audio/vocabulary/masculine-nouns-01--fahrplan-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:fahrplan",
+      "variant": "word",
+      "text": "Fahrplan",
+      "path": "audio/vocabulary/masculine-nouns-01--fahrplan-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:fernseher",
+      "variant": "full",
+      "text": "der Fernseher",
+      "path": "audio/vocabulary/masculine-nouns-01--fernseher-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:fernseher",
+      "variant": "word",
+      "text": "Fernseher",
+      "path": "audio/vocabulary/masculine-nouns-01--fernseher-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:film",
+      "variant": "full",
+      "text": "der Film",
+      "path": "audio/vocabulary/masculine-nouns-01--film-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:film",
+      "variant": "word",
+      "text": "Film",
+      "path": "audio/vocabulary/masculine-nouns-01--film-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:finger",
+      "variant": "full",
+      "text": "der Finger",
+      "path": "audio/vocabulary/masculine-nouns-01--finger-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:finger",
+      "variant": "word",
+      "text": "Finger",
+      "path": "audio/vocabulary/masculine-nouns-01--finger-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:fremde",
+      "variant": "full",
+      "text": "der Fremde",
+      "path": "audio/vocabulary/masculine-nouns-01--fremde-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:fremde",
+      "variant": "word",
+      "text": "Fremde",
+      "path": "audio/vocabulary/masculine-nouns-01--fremde-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:freund",
+      "variant": "full",
+      "text": "der Freund",
+      "path": "audio/vocabulary/masculine-nouns-01--freund-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:freund",
+      "variant": "word",
+      "text": "Freund",
+      "path": "audio/vocabulary/masculine-nouns-01--freund-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:fuss",
+      "variant": "full",
+      "text": "der Fuß",
+      "path": "audio/vocabulary/masculine-nouns-01--fuss-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:fuss",
+      "variant": "word",
+      "text": "Fuß",
+      "path": "audio/vocabulary/masculine-nouns-01--fuss-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:fussball",
+      "variant": "full",
+      "text": "der Fußball",
+      "path": "audio/vocabulary/masculine-nouns-01--fussball-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:fussball",
+      "variant": "word",
+      "text": "Fußball",
+      "path": "audio/vocabulary/masculine-nouns-01--fussball-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:garten",
+      "variant": "full",
+      "text": "der Garten",
+      "path": "audio/vocabulary/masculine-nouns-01--garten-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:garten",
+      "variant": "word",
+      "text": "Garten",
+      "path": "audio/vocabulary/masculine-nouns-01--garten-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:gast",
+      "variant": "full",
+      "text": "der Gast",
+      "path": "audio/vocabulary/masculine-nouns-01--gast-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:gast",
+      "variant": "word",
+      "text": "Gast",
+      "path": "audio/vocabulary/masculine-nouns-01--gast-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:geburtstag",
+      "variant": "full",
+      "text": "der Geburtstag",
+      "path": "audio/vocabulary/masculine-nouns-01--geburtstag-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:geburtstag",
+      "variant": "word",
+      "text": "Geburtstag",
+      "path": "audio/vocabulary/masculine-nouns-01--geburtstag-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:gruss",
+      "variant": "full",
+      "text": "der Gruß",
+      "path": "audio/vocabulary/masculine-nouns-01--gruss-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:gruss",
+      "variant": "word",
+      "text": "Gruß",
+      "path": "audio/vocabulary/masculine-nouns-01--gruss-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:hals",
+      "variant": "full",
+      "text": "der Hals",
+      "path": "audio/vocabulary/masculine-nouns-01--hals-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:hals",
+      "variant": "word",
+      "text": "Hals",
+      "path": "audio/vocabulary/masculine-nouns-01--hals-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:haushalt",
+      "variant": "full",
+      "text": "der Haushalt",
+      "path": "audio/vocabulary/masculine-nouns-01--haushalt-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:haushalt",
+      "variant": "word",
+      "text": "Haushalt",
+      "path": "audio/vocabulary/masculine-nouns-01--haushalt-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:ingenieur",
+      "variant": "full",
+      "text": "der Ingenieur",
+      "path": "audio/vocabulary/masculine-nouns-01--ingenieur-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:ingenieur",
+      "variant": "word",
+      "text": "Ingenieur",
+      "path": "audio/vocabulary/masculine-nouns-01--ingenieur-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:junge",
+      "variant": "full",
+      "text": "der Junge",
+      "path": "audio/vocabulary/masculine-nouns-01--junge-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:junge",
+      "variant": "word",
+      "text": "Junge",
+      "path": "audio/vocabulary/masculine-nouns-01--junge-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:kaffee",
+      "variant": "full",
+      "text": "der Kaffee",
+      "path": "audio/vocabulary/masculine-nouns-01--kaffee-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:kaffee",
+      "variant": "word",
+      "text": "Kaffee",
+      "path": "audio/vocabulary/masculine-nouns-01--kaffee-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:kalender",
+      "variant": "full",
+      "text": "der Kalender",
+      "path": "audio/vocabulary/masculine-nouns-01--kalender-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:kalender",
+      "variant": "word",
+      "text": "Kalender",
+      "path": "audio/vocabulary/masculine-nouns-01--kalender-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:kaufmann",
+      "variant": "full",
+      "text": "der Kaufmann",
+      "path": "audio/vocabulary/masculine-nouns-01--kaufmann-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:kaufmann",
+      "variant": "word",
+      "text": "Kaufmann",
+      "path": "audio/vocabulary/masculine-nouns-01--kaufmann-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:kellner",
+      "variant": "full",
+      "text": "der Kellner",
+      "path": "audio/vocabulary/masculine-nouns-01--kellner-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:kellner",
+      "variant": "word",
+      "text": "Kellner",
+      "path": "audio/vocabulary/masculine-nouns-01--kellner-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:kollege",
+      "variant": "full",
+      "text": "der Kollege",
+      "path": "audio/vocabulary/masculine-nouns-01--kollege-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:kollege",
+      "variant": "word",
+      "text": "Kollege",
+      "path": "audio/vocabulary/masculine-nouns-01--kollege-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:kopf",
+      "variant": "full",
+      "text": "der Kopf",
+      "path": "audio/vocabulary/masculine-nouns-01--kopf-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:kopf",
+      "variant": "word",
+      "text": "Kopf",
+      "path": "audio/vocabulary/masculine-nouns-01--kopf-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:krankenpfleger",
+      "variant": "full",
+      "text": "der Krankenpfleger",
+      "path": "audio/vocabulary/masculine-nouns-01--krankenpfleger-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:krankenpfleger",
+      "variant": "word",
+      "text": "Krankenpfleger",
+      "path": "audio/vocabulary/masculine-nouns-01--krankenpfleger-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:kuchen",
+      "variant": "full",
+      "text": "der Kuchen",
+      "path": "audio/vocabulary/masculine-nouns-01--kuchen-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:kuchen",
+      "variant": "word",
+      "text": "Kuchen",
+      "path": "audio/vocabulary/masculine-nouns-01--kuchen-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:kuehlschrank",
+      "variant": "full",
+      "text": "der Kühlschrank",
+      "path": "audio/vocabulary/masculine-nouns-01--kuehlschrank-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:kuehlschrank",
+      "variant": "word",
+      "text": "Kühlschrank",
+      "path": "audio/vocabulary/masculine-nouns-01--kuehlschrank-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:kugelschreiber",
+      "variant": "full",
+      "text": "der Kugelschreiber",
+      "path": "audio/vocabulary/masculine-nouns-01--kugelschreiber-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:kugelschreiber",
+      "variant": "word",
+      "text": "Kugelschreiber",
+      "path": "audio/vocabulary/masculine-nouns-01--kugelschreiber-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:lehrer",
+      "variant": "full",
+      "text": "der Lehrer",
+      "path": "audio/vocabulary/masculine-nouns-01--lehrer-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:lehrer",
+      "variant": "word",
+      "text": "Lehrer",
+      "path": "audio/vocabulary/masculine-nouns-01--lehrer-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:loeffel",
+      "variant": "full",
+      "text": "der Löffel",
+      "path": "audio/vocabulary/masculine-nouns-01--loeffel-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:loeffel",
+      "variant": "word",
+      "text": "Löffel",
+      "path": "audio/vocabulary/masculine-nouns-01--loeffel-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:magen",
+      "variant": "full",
+      "text": "der Magen",
+      "path": "audio/vocabulary/masculine-nouns-01--magen-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:magen",
+      "variant": "word",
+      "text": "Magen",
+      "path": "audio/vocabulary/masculine-nouns-01--magen-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:markt",
+      "variant": "full",
+      "text": "der Markt",
+      "path": "audio/vocabulary/masculine-nouns-01--markt-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:markt",
+      "variant": "word",
+      "text": "Markt",
+      "path": "audio/vocabulary/masculine-nouns-01--markt-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:meister",
+      "variant": "full",
+      "text": "der Meister",
+      "path": "audio/vocabulary/masculine-nouns-01--meister-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:meister",
+      "variant": "word",
+      "text": "Meister",
+      "path": "audio/vocabulary/masculine-nouns-01--meister-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:mensch",
+      "variant": "full",
+      "text": "der Mensch",
+      "path": "audio/vocabulary/masculine-nouns-01--mensch-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:mensch",
+      "variant": "word",
+      "text": "Mensch",
+      "path": "audio/vocabulary/masculine-nouns-01--mensch-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:mitarbeiter",
+      "variant": "full",
+      "text": "der Mitarbeiter",
+      "path": "audio/vocabulary/masculine-nouns-01--mitarbeiter-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:mitarbeiter",
+      "variant": "word",
+      "text": "Mitarbeiter",
+      "path": "audio/vocabulary/masculine-nouns-01--mitarbeiter-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:mittag",
+      "variant": "full",
+      "text": "der Mittag",
+      "path": "audio/vocabulary/masculine-nouns-01--mittag-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:mittag",
+      "variant": "word",
+      "text": "Mittag",
+      "path": "audio/vocabulary/masculine-nouns-01--mittag-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:monat",
+      "variant": "full",
+      "text": "der Monat",
+      "path": "audio/vocabulary/masculine-nouns-01--monat-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:monat",
+      "variant": "word",
+      "text": "Monat",
+      "path": "audio/vocabulary/masculine-nouns-01--monat-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:mond",
+      "variant": "full",
+      "text": "der Mond",
+      "path": "audio/vocabulary/masculine-nouns-01--mond-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:mond",
+      "variant": "word",
+      "text": "Mond",
+      "path": "audio/vocabulary/masculine-nouns-01--mond-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:morgen",
+      "variant": "full",
+      "text": "der Morgen",
+      "path": "audio/vocabulary/masculine-nouns-01--morgen-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:morgen",
+      "variant": "word",
+      "text": "Morgen",
+      "path": "audio/vocabulary/masculine-nouns-01--morgen-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:mund",
+      "variant": "full",
+      "text": "der Mund",
+      "path": "audio/vocabulary/masculine-nouns-01--mund-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:mund",
+      "variant": "word",
+      "text": "Mund",
+      "path": "audio/vocabulary/masculine-nouns-01--mund-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:name",
+      "variant": "full",
+      "text": "der Name",
+      "path": "audio/vocabulary/masculine-nouns-01--name-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:name",
+      "variant": "word",
+      "text": "Name",
+      "path": "audio/vocabulary/masculine-nouns-01--name-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:onkel",
+      "variant": "full",
+      "text": "der Onkel",
+      "path": "audio/vocabulary/masculine-nouns-01--onkel-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:onkel",
+      "variant": "word",
+      "text": "Onkel",
+      "path": "audio/vocabulary/masculine-nouns-01--onkel-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:ort",
+      "variant": "full",
+      "text": "der Ort",
+      "path": "audio/vocabulary/masculine-nouns-01--ort-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:ort",
+      "variant": "word",
+      "text": "Ort",
+      "path": "audio/vocabulary/masculine-nouns-01--ort-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:papierkorb",
+      "variant": "full",
+      "text": "der Papierkorb",
+      "path": "audio/vocabulary/masculine-nouns-01--papierkorb-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:papierkorb",
+      "variant": "word",
+      "text": "Papierkorb",
+      "path": "audio/vocabulary/masculine-nouns-01--papierkorb-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:park",
+      "variant": "full",
+      "text": "der Park",
+      "path": "audio/vocabulary/masculine-nouns-01--park-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:park",
+      "variant": "word",
+      "text": "Park",
+      "path": "audio/vocabulary/masculine-nouns-01--park-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:pilot",
+      "variant": "full",
+      "text": "der Pilot",
+      "path": "audio/vocabulary/masculine-nouns-01--pilot-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:pilot",
+      "variant": "word",
+      "text": "Pilot",
+      "path": "audio/vocabulary/masculine-nouns-01--pilot-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:plan",
+      "variant": "full",
+      "text": "der Plan",
+      "path": "audio/vocabulary/masculine-nouns-01--plan-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:plan",
+      "variant": "word",
+      "text": "Plan",
+      "path": "audio/vocabulary/masculine-nouns-01--plan-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:platz",
+      "variant": "full",
+      "text": "der Platz",
+      "path": "audio/vocabulary/masculine-nouns-01--platz-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:platz",
+      "variant": "word",
+      "text": "Platz",
+      "path": "audio/vocabulary/masculine-nouns-01--platz-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:professor",
+      "variant": "full",
+      "text": "der Professor",
+      "path": "audio/vocabulary/masculine-nouns-01--professor-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:professor",
+      "variant": "word",
+      "text": "Professor",
+      "path": "audio/vocabulary/masculine-nouns-01--professor-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:pullover",
+      "variant": "full",
+      "text": "der Pullover",
+      "path": "audio/vocabulary/masculine-nouns-01--pullover-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:pullover",
+      "variant": "word",
+      "text": "Pullover",
+      "path": "audio/vocabulary/masculine-nouns-01--pullover-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:reis",
+      "variant": "full",
+      "text": "der Reis",
+      "path": "audio/vocabulary/masculine-nouns-01--reis-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:reis",
+      "variant": "word",
+      "text": "Reis",
+      "path": "audio/vocabulary/masculine-nouns-01--reis-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:ruecken",
+      "variant": "full",
+      "text": "der Rücken",
+      "path": "audio/vocabulary/masculine-nouns-01--ruecken-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:ruecken",
+      "variant": "word",
+      "text": "Rücken",
+      "path": "audio/vocabulary/masculine-nouns-01--ruecken-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:saft",
+      "variant": "full",
+      "text": "der Saft",
+      "path": "audio/vocabulary/masculine-nouns-01--saft-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:saft",
+      "variant": "word",
+      "text": "Saft",
+      "path": "audio/vocabulary/masculine-nouns-01--saft-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:satz",
+      "variant": "full",
+      "text": "der Satz",
+      "path": "audio/vocabulary/masculine-nouns-01--satz-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:satz",
+      "variant": "word",
+      "text": "Satz",
+      "path": "audio/vocabulary/masculine-nouns-01--satz-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:schatz",
+      "variant": "full",
+      "text": "der Schatz",
+      "path": "audio/vocabulary/masculine-nouns-01--schatz-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:schatz",
+      "variant": "word",
+      "text": "Schatz",
+      "path": "audio/vocabulary/masculine-nouns-01--schatz-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:schauspieler",
+      "variant": "full",
+      "text": "der Schauspieler",
+      "path": "audio/vocabulary/masculine-nouns-01--schauspieler-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:schauspieler",
+      "variant": "word",
+      "text": "Schauspieler",
+      "path": "audio/vocabulary/masculine-nouns-01--schauspieler-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:schlafsack",
+      "variant": "full",
+      "text": "der Schlafsack",
+      "path": "audio/vocabulary/masculine-nouns-01--schlafsack-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:schlafsack",
+      "variant": "word",
+      "text": "Schlafsack",
+      "path": "audio/vocabulary/masculine-nouns-01--schlafsack-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:schluessel",
+      "variant": "full",
+      "text": "der Schlüssel",
+      "path": "audio/vocabulary/masculine-nouns-01--schluessel-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:schluessel",
+      "variant": "word",
+      "text": "Schlüssel",
+      "path": "audio/vocabulary/masculine-nouns-01--schluessel-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:schnurrbart",
+      "variant": "full",
+      "text": "der Schnurrbart",
+      "path": "audio/vocabulary/masculine-nouns-01--schnurrbart-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:schnurrbart",
+      "variant": "word",
+      "text": "Schnurrbart",
+      "path": "audio/vocabulary/masculine-nouns-01--schnurrbart-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:schrank",
+      "variant": "full",
+      "text": "der Schrank",
+      "path": "audio/vocabulary/masculine-nouns-01--schrank-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:schrank",
+      "variant": "word",
+      "text": "Schrank",
+      "path": "audio/vocabulary/masculine-nouns-01--schrank-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:schreibtisch",
+      "variant": "full",
+      "text": "der Schreibtisch",
+      "path": "audio/vocabulary/masculine-nouns-01--schreibtisch-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:schreibtisch",
+      "variant": "word",
+      "text": "Schreibtisch",
+      "path": "audio/vocabulary/masculine-nouns-01--schreibtisch-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:schueler",
+      "variant": "full",
+      "text": "der Schüler",
+      "path": "audio/vocabulary/masculine-nouns-01--schueler-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:schueler",
+      "variant": "word",
+      "text": "Schüler",
+      "path": "audio/vocabulary/masculine-nouns-01--schueler-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:schulter",
+      "variant": "full",
+      "text": "die Schulter",
+      "path": "audio/vocabulary/masculine-nouns-01--schulter-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:schulter",
+      "variant": "word",
+      "text": "Schulter",
+      "path": "audio/vocabulary/masculine-nouns-01--schulter-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:sessel",
+      "variant": "full",
+      "text": "der Sessel",
+      "path": "audio/vocabulary/masculine-nouns-01--sessel-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:sessel",
+      "variant": "word",
+      "text": "Sessel",
+      "path": "audio/vocabulary/masculine-nouns-01--sessel-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:sohn",
+      "variant": "full",
+      "text": "der Sohn",
+      "path": "audio/vocabulary/masculine-nouns-01--sohn-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:sohn",
+      "variant": "word",
+      "text": "Sohn",
+      "path": "audio/vocabulary/masculine-nouns-01--sohn-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:spass",
+      "variant": "full",
+      "text": "der Spaß",
+      "path": "audio/vocabulary/masculine-nouns-01--spass-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:spass",
+      "variant": "word",
+      "text": "Spaß",
+      "path": "audio/vocabulary/masculine-nouns-01--spass-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:stock",
+      "variant": "full",
+      "text": "der Stock",
+      "path": "audio/vocabulary/masculine-nouns-01--stock-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:stock",
+      "variant": "word",
+      "text": "Stock",
+      "path": "audio/vocabulary/masculine-nouns-01--stock-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:student",
+      "variant": "full",
+      "text": "der Student",
+      "path": "audio/vocabulary/masculine-nouns-01--student-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:student",
+      "variant": "word",
+      "text": "Student",
+      "path": "audio/vocabulary/masculine-nouns-01--student-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:stuhl",
+      "variant": "full",
+      "text": "der Stuhl",
+      "path": "audio/vocabulary/masculine-nouns-01--stuhl-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:stuhl",
+      "variant": "word",
+      "text": "Stuhl",
+      "path": "audio/vocabulary/masculine-nouns-01--stuhl-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:supermarkt",
+      "variant": "full",
+      "text": "der Supermarkt",
+      "path": "audio/vocabulary/masculine-nouns-01--supermarkt-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:supermarkt",
+      "variant": "word",
+      "text": "Supermarkt",
+      "path": "audio/vocabulary/masculine-nouns-01--supermarkt-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:tag",
+      "variant": "full",
+      "text": "der Tag",
+      "path": "audio/vocabulary/masculine-nouns-01--tag-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:tag",
+      "variant": "word",
+      "text": "Tag",
+      "path": "audio/vocabulary/masculine-nouns-01--tag-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:techniker",
+      "variant": "full",
+      "text": "der Techniker",
+      "path": "audio/vocabulary/masculine-nouns-01--techniker-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:techniker",
+      "variant": "word",
+      "text": "Techniker",
+      "path": "audio/vocabulary/masculine-nouns-01--techniker-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:tee",
+      "variant": "full",
+      "text": "der Tee",
+      "path": "audio/vocabulary/masculine-nouns-01--tee-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:tee",
+      "variant": "word",
+      "text": "Tee",
+      "path": "audio/vocabulary/masculine-nouns-01--tee-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:tisch",
+      "variant": "full",
+      "text": "der Tisch",
+      "path": "audio/vocabulary/masculine-nouns-01--tisch-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:tisch",
+      "variant": "word",
+      "text": "Tisch",
+      "path": "audio/vocabulary/masculine-nouns-01--tisch-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:tischler",
+      "variant": "full",
+      "text": "der Tischler",
+      "path": "audio/vocabulary/masculine-nouns-01--tischler-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:tischler",
+      "variant": "word",
+      "text": "Tischler",
+      "path": "audio/vocabulary/masculine-nouns-01--tischler-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:turm",
+      "variant": "full",
+      "text": "der Turm",
+      "path": "audio/vocabulary/masculine-nouns-01--turm-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:turm",
+      "variant": "word",
+      "text": "Turm",
+      "path": "audio/vocabulary/masculine-nouns-01--turm-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:uebersetzer",
+      "variant": "full",
+      "text": "der Übersetzer",
+      "path": "audio/vocabulary/masculine-nouns-01--uebersetzer-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:uebersetzer",
+      "variant": "word",
+      "text": "Übersetzer",
+      "path": "audio/vocabulary/masculine-nouns-01--uebersetzer-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:unterricht",
+      "variant": "full",
+      "text": "der Unterricht",
+      "path": "audio/vocabulary/masculine-nouns-01--unterricht-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:unterricht",
+      "variant": "word",
+      "text": "Unterricht",
+      "path": "audio/vocabulary/masculine-nouns-01--unterricht-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:urlaub",
+      "variant": "full",
+      "text": "der Urlaub",
+      "path": "audio/vocabulary/masculine-nouns-01--urlaub-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:urlaub",
+      "variant": "word",
+      "text": "Urlaub",
+      "path": "audio/vocabulary/masculine-nouns-01--urlaub-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:vater",
+      "variant": "full",
+      "text": "der Vater",
+      "path": "audio/vocabulary/masculine-nouns-01--vater-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:vater",
+      "variant": "word",
+      "text": "Vater",
+      "path": "audio/vocabulary/masculine-nouns-01--vater-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:verkaeufer",
+      "variant": "full",
+      "text": "der Verkäufer",
+      "path": "audio/vocabulary/masculine-nouns-01--verkaeufer-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:verkaeufer",
+      "variant": "word",
+      "text": "Verkäufer",
+      "path": "audio/vocabulary/masculine-nouns-01--verkaeufer-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:verwandte",
+      "variant": "full",
+      "text": "der Verwandte",
+      "path": "audio/vocabulary/masculine-nouns-01--verwandte-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:verwandte",
+      "variant": "word",
+      "text": "Verwandte",
+      "path": "audio/vocabulary/masculine-nouns-01--verwandte-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:vorhang",
+      "variant": "full",
+      "text": "der Vorhang",
+      "path": "audio/vocabulary/masculine-nouns-01--vorhang-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:vorhang",
+      "variant": "word",
+      "text": "Vorhang",
+      "path": "audio/vocabulary/masculine-nouns-01--vorhang-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:vormittag",
+      "variant": "full",
+      "text": "der Vormittag",
+      "path": "audio/vocabulary/masculine-nouns-01--vormittag-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:vormittag",
+      "variant": "word",
+      "text": "Vormittag",
+      "path": "audio/vocabulary/masculine-nouns-01--vormittag-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:weg",
+      "variant": "full",
+      "text": "der Weg",
+      "path": "audio/vocabulary/masculine-nouns-01--weg-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:weg",
+      "variant": "word",
+      "text": "Weg",
+      "path": "audio/vocabulary/masculine-nouns-01--weg-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:wunsch",
+      "variant": "full",
+      "text": "der Wunsch",
+      "path": "audio/vocabulary/masculine-nouns-01--wunsch-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:wunsch",
+      "variant": "word",
+      "text": "Wunsch",
+      "path": "audio/vocabulary/masculine-nouns-01--wunsch-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:zahn",
+      "variant": "full",
+      "text": "der Zahn",
+      "path": "audio/vocabulary/masculine-nouns-01--zahn-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:zahn",
+      "variant": "word",
+      "text": "Zahn",
+      "path": "audio/vocabulary/masculine-nouns-01--zahn-word.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:zucker",
+      "variant": "full",
+      "text": "der Zucker",
+      "path": "audio/vocabulary/masculine-nouns-01--zucker-full.mp3"
+    },
+    {
+      "vocabId": "masculine-nouns-01:zucker",
+      "variant": "word",
+      "text": "Zucker",
+      "path": "audio/vocabulary/masculine-nouns-01--zucker-word.mp3"
+    }
+  ]
+}

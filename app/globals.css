@@ -614,3 +614,99 @@
     grid-column: auto;
   }
 }
+
+/* Pronunciation */
+.wordWithAudio {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.pronunciationButton {
+  width: 42px;
+  height: 42px;
+  flex: 0 0 42px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--border);
+  border-radius: 13px;
+  background: #fff;
+  cursor: pointer;
+  font-size: 18px;
+  line-height: 1;
+  box-shadow: 0 4px 12px rgba(0,0,0,.04);
+  transition: transform .15s ease, border-color .15s ease, background .15s ease;
+}
+
+.pronunciationButton:hover {
+  border-color: var(--primary);
+  transform: translateY(-1px);
+}
+
+.pronunciationButton:focus-visible {
+  outline: 3px solid rgba(108,99,255,.22);
+  outline-offset: 2px;
+}
+
+.pronunciationButton.loading,
+.pronunciationButton.playing {
+  border-color: var(--primary);
+  background: #f4f2ff;
+}
+
+.pronunciationButton.error {
+  color: var(--danger);
+  background: #fff7f7;
+  border-color: #fecaca;
+  font-weight: 900;
+}
+
+.pronunciationButton.compact {
+  width: 34px;
+  height: 34px;
+  flex-basis: 34px;
+  border-radius: 11px;
+  font-size: 15px;
+  box-shadow: none;
+}
+
+.feedbackAnswerWithAudio,
+.correctPronunciationRow,
+.weakWordTitle,
+.focusWordTitle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.feedbackAnswerWithAudio {
+  justify-content: flex-start;
+}
+
+.correctPronunciationRow {
+  margin-top: 12px;
+  padding: 10px 12px;
+  border-radius: 12px;
+  background: rgba(255,255,255,.66);
+  font-weight: 800;
+}
+
+.weakWordTitle,
+.focusWordTitle {
+  min-width: 0;
+}
+
+@media (max-width: 420px) {
+  .wordWithAudio {
+    gap: 8px;
+  }
+
+  .pronunciationButton {
+    width: 40px;
+    height: 40px;
+    flex-basis: 40px;
+  }
+}

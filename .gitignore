@@ -3,3 +3,10 @@ node_modules/
 out/
 .DS_Store
 npm-debug.log*
+.env
+.env.local
+.env.*.local
+
+public/audio/elevenlabs-test/
+scripts/test-elevenlabs.mjs
+scripts/list-elevenlabs-voices.mjs

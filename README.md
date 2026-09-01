@@ -56,3 +56,7 @@ Put a validated topic JSON file in `data/topics/`, commit it, and GitHub Pages w
 Study attempts and spaced-repetition mastery are currently stored in browser `localStorage`.
 
 Refreshing or deploying new code does not normally erase progress on the same browser/domain. A different browser/device has separate progress until cloud sync is added later.
+
+## Pronunciation audio
+
+The portal supports pre-generated ElevenLabs pronunciation with a speaker button beside German vocabulary. See `PRONUNCIATION.md` and run `npm run audio:generate` locally after adding new vocabulary. The API key stays in `.env` and is never used by the public website.

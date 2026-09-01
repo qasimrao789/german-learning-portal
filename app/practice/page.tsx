@@ -6,6 +6,7 @@ import { useRouter } from "next/navigation";
 import ProgressBar from "../../components/ProgressBar";
 import GermanCharacterBar from "../../components/GermanCharacterBar";
 import MeaningHint from "../../components/MeaningHint";
+import PronunciationButton from "../../components/PronunciationButton";
 import {
   buildSession,
   createRetryQuestion,
@@ -256,15 +257,26 @@ export default function PracticePage() {
           {(question.type === "article" || question.type === "meaning") && (
             <>
               {question.type === "article" ? (
-                <div className="word">
-                  ___{" "}
-                  <MeaningHint meaning={question.item.english}>
-                    {question.item.german}
-                  </MeaningHint>
+                <div className="word wordWithAudio">
+                  <span>
+                    ___{" "}
+                    <MeaningHint meaning={question.item.english}>
+                      {question.item.german}
+                    </MeaningHint>
+                  </span>
+                  <PronunciationButton
+                    vocabId={question.item.id}
+                    text={question.item.german}
+                    variant="word"
+                  />
                 </div>
               ) : (
-                <div className="word">
-                  {question.item.article} {question.item.german}
+                <div className="word wordWithAudio">
+                  <span>{question.item.article} {question.item.german}</span>
+                  <PronunciationButton
+                    vocabId={question.item.id}
+                    text={`${question.item.article} ${question.item.german}`}
+                  />
                 </div>
               )}
 
@@ -303,11 +315,17 @@ export default function PracticePage() {
 
           {(question.type === "plural" || question.type === "translation") && (
             <>
-              <div className="word">
+              <div className={`word ${question.type === "plural" ? "wordWithAudio" : ""}`}>
                 {question.type === "plural" ? (
-                  <MeaningHint meaning={question.item.english}>
-                    {`${question.item.article} ${question.item.german}`}
-                  </MeaningHint>
+                  <>
+                    <MeaningHint meaning={question.item.english}>
+                      {`${question.item.article} ${question.item.german}`}
+                    </MeaningHint>
+                    <PronunciationButton
+                      vocabId={question.item.id}
+                      text={`${question.item.article} ${question.item.german}`}
+                    />
+                  </>
                 ) : (
                   question.item.english
                 )}
@@ -372,13 +390,34 @@ export default function PracticePage() {
               {!feedback.correct && (
                 <div style={{ marginTop: 10 }}>
                   <div className="muted">Correct answer</div>
-                  <div className="feedbackAnswer">{question.correctAnswer}</div>
+                  <div className="feedbackAnswer feedbackAnswerWithAudio">
+                    <span>{question.correctAnswer}</span>
+                    {question.type !== "plural" && (
+                      <PronunciationButton
+                        vocabId={question.item.id}
+                        text={`${question.item.article} ${question.item.german}`}
+                        variant="full"
+                        compact
+                      />
+                    )}
+                  </div>
                   {feedback.retryScheduled && (
                     <div className="retryNote">
                       ↻ This exact skill will return later in this session, and
                       it is scheduled for another review tomorrow.
                     </div>
                   )}
+                </div>
+              )}
+
+              {feedback.correct && (question.type === "translation" || question.type === "article") && (
+                <div className="correctPronunciationRow">
+                  <span>{question.item.article} {question.item.german}</span>
+                  <PronunciationButton
+                    vocabId={question.item.id}
+                    text={`${question.item.article} ${question.item.german}`}
+                    compact
+                  />
                 </div>
               )}
 

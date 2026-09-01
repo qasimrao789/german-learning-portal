@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
+import PronunciationButton from "../../components/PronunciationButton";
 import {
   formatReviewTime,
   getLearningOverview,
@@ -121,7 +122,14 @@ export default function ResultsPage() {
               {weakWords.map(word => (
                 <div className="focusRow" key={word.vocabId}>
                   <div className="focusWord">
-                    <strong>{word.german}</strong>
+                    <div className="focusWordTitle">
+                      <strong>{word.german}</strong>
+                      <PronunciationButton
+                        vocabId={word.vocabId}
+                        text={word.german}
+                        compact
+                      />
+                    </div>
                     <span>{word.english}</span>
                   </div>
                   <div className="focusScore">

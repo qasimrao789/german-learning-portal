@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import ProgressBar from "../components/ProgressBar";
+import PronunciationButton from "../components/PronunciationButton";
 import { PRACTICE_MODES } from "../lib/practiceModes";
 import {
   formatReviewTime,
@@ -163,7 +164,14 @@ export default function HomePage() {
               {weakWords.map(word => (
                 <div className="weakWordRow" key={word.vocabId}>
                   <div>
-                    <strong>{word.german}</strong>
+                    <div className="weakWordTitle">
+                      <strong>{word.german}</strong>
+                      <PronunciationButton
+                        vocabId={word.vocabId}
+                        text={word.german}
+                        compact
+                      />
+                    </div>
                     <div className="muted weakWordMeaning">{word.english}</div>
                   </div>
                   <div className="weakWordMeta">

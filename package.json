@@ -7,7 +7,9 @@
     "dev": "next dev",
     "prebuild": "node scripts/build-data.mjs",
     "build": "next build",
-    "data:build": "node scripts/build-data.mjs"
+    "data:build": "node scripts/build-data.mjs",
+    "audio:generate": "npm run data:build && node --env-file=.env scripts/generate-pronunciations.mjs",
+    "audio:test": "npm run data:build && node --env-file=.env scripts/generate-pronunciations.mjs --limit=10"
   },
   "dependencies": {
     "framer-motion": "11.11.17",

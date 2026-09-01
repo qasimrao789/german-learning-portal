@@ -1,6 +1,6 @@
-# German Learning Portal — Complete Consolidated Project
+# German Learning Portal — Complete Consolidated Project v13
 
-This is the consolidated project version. It is intended to replace the earlier partial update files.
+This is the complete consolidated project and includes all earlier portal features plus static ElevenLabs pronunciation audio support.
 
 ## Included features
 
@@ -23,12 +23,24 @@ This is the consolidated project version. It is intended to replace the earlier 
 - GitHub Pages static export configuration
 - GitHub Actions deployment workflow
 - Topic-based JSON data system for adding future material
+- ElevenLabs pronunciation generation script
+- Static pronunciation speaker buttons in practice, weak-word lists and results
+- Article Practice uses noun-only audio so pronunciation never reveals der/die/das
+- Existing audio is skipped when generating pronunciation for newly added vocabulary
+
+## Pronunciation architecture
+
+The public website never receives the ElevenLabs API key and never calls ElevenLabs directly.
+
+Run `npm run audio:generate` locally. The script uses Alice (`Xb7hH8MSUJpSbSDYk0k2`) with `eleven_multilingual_v2` by default and creates MP3 files under `public/audio/vocabulary/`. Commit those MP3s to GitHub; GitHub Pages then serves them as static files with no per-play TTS charge.
+
+See `PRONUNCIATION.md` for setup and usage.
 
 ## Vocabulary currently included
 
 The generated vocabulary is built from all JSON files in `data/topics/`.
-At the time this complete project was prepared it contains 130 vocabulary items from 2 topic files.
+This version contains 130 vocabulary items from 2 topic files.
 
 ## Important progress note
 
-The existing localStorage keys were intentionally kept unchanged so deploying this version at the same GitHub Pages URL should continue to use the progress already stored in that browser.
+The existing localStorage keys were intentionally kept unchanged, so deploying this version at the same GitHub Pages URL continues to use the progress already stored in that browser.
