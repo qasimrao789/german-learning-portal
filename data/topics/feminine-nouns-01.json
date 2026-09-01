@@ -1,9 +1,25 @@
 {
   "topicId": "feminine-nouns-01",
-  "title": "Feminine Nouns — Starter Set",
+  "title": "Feminine Nouns — Complete Page",
   "level": "A1",
   "kind": "vocabulary",
   "items": [
+    {
+      "id": "feminine-nouns-01:nacht",
+      "type": "noun",
+      "german": "Nacht",
+      "english": "night",
+      "article": "die",
+      "plural": "Nächte"
+    },
+    {
+      "id": "feminine-nouns-01:dame",
+      "type": "noun",
+      "german": "Dame",
+      "english": "lady",
+      "article": "die",
+      "plural": "Damen"
+    },
     {
       "id": "1",
       "type": "noun",
@@ -13,44 +29,36 @@
       "plural": "Katzen"
     },
     {
-      "id": "2",
+      "id": "feminine-nouns-01:firma",
       "type": "noun",
-      "german": "Straße",
-      "english": "street",
+      "german": "Firma",
+      "english": "company / firm",
       "article": "die",
-      "plural": "Straßen"
+      "plural": "Firmen"
     },
     {
-      "id": "3",
+      "id": "feminine-nouns-01:arbeiterin",
       "type": "noun",
-      "german": "Wohnung",
-      "english": "apartment",
+      "german": "Arbeiterin",
+      "english": "female worker",
       "article": "die",
-      "plural": "Wohnungen"
+      "plural": "Arbeiterinnen"
     },
     {
-      "id": "4",
+      "id": "feminine-nouns-01:stunde",
       "type": "noun",
-      "german": "Flasche",
-      "english": "bottle",
+      "german": "Stunde",
+      "english": "hour / lesson",
       "article": "die",
-      "plural": "Flaschen"
+      "plural": "Stunden"
     },
     {
-      "id": "5",
+      "id": "feminine-nouns-01:pruefung",
       "type": "noun",
-      "german": "Zeitung",
-      "english": "newspaper",
+      "german": "Prüfung",
+      "english": "exam / test",
       "article": "die",
-      "plural": "Zeitungen"
-    },
-    {
-      "id": "6",
-      "type": "noun",
-      "german": "Sprache",
-      "english": "language",
-      "article": "die",
-      "plural": "Sprachen"
+      "plural": "Prüfungen"
     },
     {
       "id": "7",
@@ -61,28 +69,164 @@
       "plural": "Fragen"
     },
     {
-      "id": "8",
+      "id": "feminine-nouns-01:arbeit",
       "type": "noun",
-      "german": "Antwort",
-      "english": "answer",
+      "german": "Arbeit",
+      "english": "work / job",
       "article": "die",
-      "plural": "Antworten"
+      "plural": "Arbeiten"
     },
     {
-      "id": "9",
+      "id": "feminine-nouns-01:haltestelle",
       "type": "noun",
-      "german": "Schule",
-      "english": "school",
+      "german": "Haltestelle",
+      "english": "stop / station",
       "article": "die",
-      "plural": "Schulen"
+      "plural": "Haltestellen"
     },
     {
-      "id": "10",
+      "id": "feminine-nouns-01:kueche",
       "type": "noun",
-      "german": "Reise",
-      "english": "journey",
+      "german": "Küche",
+      "english": "kitchen",
       "article": "die",
-      "plural": "Reisen"
+      "plural": "Küchen"
+    },
+    {
+      "id": "feminine-nouns-01:ecke",
+      "type": "noun",
+      "german": "Ecke",
+      "english": "corner",
+      "article": "die",
+      "plural": "Ecken"
+    },
+    {
+      "id": "2",
+      "type": "noun",
+      "german": "Straße",
+      "english": "street",
+      "article": "die",
+      "plural": "Straßen"
+    },
+    {
+      "id": "feminine-nouns-01:ehe",
+      "type": "noun",
+      "german": "Ehe",
+      "english": "marriage",
+      "article": "die",
+      "plural": "Ehen"
+    },
+    {
+      "id": "feminine-nouns-01:schuelerin",
+      "type": "noun",
+      "german": "Schülerin",
+      "english": "female pupil / student",
+      "article": "die",
+      "plural": "Schülerinnen"
+    },
+    {
+      "id": "feminine-nouns-01:schwester",
+      "type": "noun",
+      "german": "Schwester",
+      "english": "sister",
+      "article": "die",
+      "plural": "Schwestern"
+    },
+    {
+      "id": "feminine-nouns-01:stadt",
+      "type": "noun",
+      "german": "Stadt",
+      "english": "city / town",
+      "article": "die",
+      "plural": "Städte"
+    },
+    {
+      "id": "feminine-nouns-01:kiste",
+      "type": "noun",
+      "german": "Kiste",
+      "english": "box / crate",
+      "article": "die",
+      "plural": "Kisten"
+    },
+    {
+      "id": "feminine-nouns-01:qualitaet",
+      "type": "noun",
+      "german": "Qualität",
+      "english": "quality",
+      "article": "die",
+      "plural": "Qualitäten"
+    },
+    {
+      "id": "feminine-nouns-01:marke",
+      "type": "noun",
+      "german": "Marke",
+      "english": "brand / make",
+      "article": "die",
+      "plural": "Marken"
+    },
+    {
+      "id": "feminine-nouns-01:freundschaft",
+      "type": "noun",
+      "german": "Freundschaft",
+      "english": "friendship",
+      "article": "die",
+      "plural": "Freundschaften"
+    },
+    {
+      "id": "feminine-nouns-01:adresse",
+      "type": "noun",
+      "german": "Adresse",
+      "english": "address",
+      "article": "die",
+      "plural": "Adressen"
+    },
+    {
+      "id": "feminine-nouns-01:jacke",
+      "type": "noun",
+      "german": "Jacke",
+      "english": "jacket",
+      "article": "die",
+      "plural": "Jacken"
+    },
+    {
+      "id": "feminine-nouns-01:meinung",
+      "type": "noun",
+      "german": "Meinung",
+      "english": "opinion",
+      "article": "die",
+      "plural": "Meinungen"
+    },
+    {
+      "id": "feminine-nouns-01:fahrt",
+      "type": "noun",
+      "german": "Fahrt",
+      "english": "journey / ride / trip",
+      "article": "die",
+      "plural": "Fahrten"
+    },
+    {
+      "id": "feminine-nouns-01:tafel",
+      "type": "noun",
+      "german": "Tafel",
+      "english": "board / blackboard",
+      "article": "die",
+      "plural": "Tafeln"
+    },
+    {
+      "id": "24",
+      "type": "noun",
+      "german": "Maschine",
+      "english": "machine",
+      "article": "die",
+      "plural": "Maschinen"
+    },
+    {
+      "id": "feminine-nouns-01:milch",
+      "type": "noun",
+      "german": "Milch",
+      "english": "milk",
+      "article": "die",
+      "plural": null
     },
     {
       "id": "11",
@@ -93,12 +237,196 @@
       "plural": "Tassen"
     },
     {
+      "id": "feminine-nouns-01:hochzeit",
+      "type": "noun",
+      "german": "Hochzeit",
+      "english": "wedding",
+      "article": "die",
+      "plural": "Hochzeiten"
+    },
+    {
+      "id": "feminine-nouns-01:krankenschwester",
+      "type": "noun",
+      "german": "Krankenschwester",
+      "english": "nurse",
+      "article": "die",
+      "plural": "Krankenschwestern"
+    },
+    {
       "id": "12",
       "type": "noun",
       "german": "Gabel",
       "english": "fork",
       "article": "die",
       "plural": "Gabeln"
+    },
+    {
+      "id": "feminine-nouns-01:limonade",
+      "type": "noun",
+      "german": "Limonade",
+      "english": "lemonade / soft drink",
+      "article": "die",
+      "plural": "Limonaden"
+    },
+    {
+      "id": "feminine-nouns-01:medizin",
+      "type": "noun",
+      "german": "Medizin",
+      "english": "medicine",
+      "article": "die",
+      "plural": null
+    },
+    {
+      "id": "feminine-nouns-01:freizeit",
+      "type": "noun",
+      "german": "Freizeit",
+      "english": "free time / leisure",
+      "article": "die",
+      "plural": null
+    },
+    {
+      "id": "feminine-nouns-01:polizei",
+      "type": "noun",
+      "german": "Polizei",
+      "english": "police",
+      "article": "die",
+      "plural": null
+    },
+    {
+      "id": "feminine-nouns-01:unterhaltung",
+      "type": "noun",
+      "german": "Unterhaltung",
+      "english": "entertainment / conversation",
+      "article": "die",
+      "plural": "Unterhaltungen"
+    },
+    {
+      "id": "feminine-nouns-01:nase",
+      "type": "noun",
+      "german": "Nase",
+      "english": "nose",
+      "article": "die",
+      "plural": "Nasen"
+    },
+    {
+      "id": "feminine-nouns-01:zunge",
+      "type": "noun",
+      "german": "Zunge",
+      "english": "tongue",
+      "article": "die",
+      "plural": "Zungen"
+    },
+    {
+      "id": "6",
+      "type": "noun",
+      "german": "Sprache",
+      "english": "language",
+      "article": "die",
+      "plural": "Sprachen"
+    },
+    {
+      "id": "feminine-nouns-01:ausbildung",
+      "type": "noun",
+      "german": "Ausbildung",
+      "english": "education / vocational training",
+      "article": "die",
+      "plural": "Ausbildungen"
+    },
+    {
+      "id": "feminine-nouns-01:studentin",
+      "type": "noun",
+      "german": "Studentin",
+      "english": "female student",
+      "article": "die",
+      "plural": "Studentinnen"
+    },
+    {
+      "id": "15",
+      "type": "noun",
+      "german": "Freundin",
+      "english": "female friend / girlfriend",
+      "article": "die",
+      "plural": "Freundinnen"
+    },
+    {
+      "id": "feminine-nouns-01:sekunde",
+      "type": "noun",
+      "german": "Sekunde",
+      "english": "second",
+      "article": "die",
+      "plural": "Sekunden"
+    },
+    {
+      "id": "feminine-nouns-01:besprechung",
+      "type": "noun",
+      "german": "Besprechung",
+      "english": "meeting / discussion",
+      "article": "die",
+      "plural": "Besprechungen"
+    },
+    {
+      "id": "feminine-nouns-01:uhr",
+      "type": "noun",
+      "german": "Uhr",
+      "english": "clock / watch",
+      "article": "die",
+      "plural": "Uhren"
+    },
+    {
+      "id": "8",
+      "type": "noun",
+      "german": "Antwort",
+      "english": "answer",
+      "article": "die",
+      "plural": "Antworten"
+    },
+    {
+      "id": "feminine-nouns-01:gitarre",
+      "type": "noun",
+      "german": "Gitarre",
+      "english": "guitar",
+      "article": "die",
+      "plural": "Gitarren"
+    },
+    {
+      "id": "feminine-nouns-01:farbe",
+      "type": "noun",
+      "german": "Farbe",
+      "english": "color",
+      "article": "die",
+      "plural": "Farben"
+    },
+    {
+      "id": "feminine-nouns-01:wand",
+      "type": "noun",
+      "german": "Wand",
+      "english": "wall",
+      "article": "die",
+      "plural": "Wände"
+    },
+    {
+      "id": "feminine-nouns-01:richtung",
+      "type": "noun",
+      "german": "Richtung",
+      "english": "direction",
+      "article": "die",
+      "plural": "Richtungen"
+    },
+    {
+      "id": "feminine-nouns-01:mitte",
+      "type": "noun",
+      "german": "Mitte",
+      "english": "middle / center",
+      "article": "die",
+      "plural": "Mitten"
+    },
+    {
+      "id": "feminine-nouns-01:sorge",
+      "type": "noun",
+      "german": "Sorge",
+      "english": "worry / concern",
+      "article": "die",
+      "plural": "Sorgen"
     },
     {
       "id": "13",
@@ -109,44 +437,20 @@
       "plural": "Töchter"
     },
     {
-      "id": "14",
+      "id": "feminine-nouns-01:geschwister",
       "type": "noun",
-      "german": "Tante",
-      "english": "aunt",
+      "german": "Geschwister",
+      "english": "siblings",
       "article": "die",
-      "plural": "Tanten"
+      "plural": null
     },
     {
-      "id": "15",
+      "id": "9",
       "type": "noun",
-      "german": "Freundin",
-      "english": "female friend",
+      "german": "Schule",
+      "english": "school",
       "article": "die",
-      "plural": "Freundinnen"
-    },
-    {
-      "id": "16",
-      "type": "noun",
-      "german": "Lehrerin",
-      "english": "female teacher",
-      "article": "die",
-      "plural": "Lehrerinnen"
-    },
-    {
-      "id": "17",
-      "type": "noun",
-      "german": "Ärztin",
-      "english": "female doctor",
-      "article": "die",
-      "plural": "Ärztinnen"
-    },
-    {
-      "id": "18",
-      "type": "noun",
-      "german": "Karte",
-      "english": "card / map",
-      "article": "die",
-      "plural": "Karten"
+      "plural": "Schulen"
     },
     {
       "id": "19",
@@ -157,28 +461,28 @@
       "plural": "Nachrichten"
     },
     {
-      "id": "20",
+      "id": "feminine-nouns-01:buchhandlung",
       "type": "noun",
-      "german": "Gelegenheit",
-      "english": "opportunity / chance",
+      "german": "Buchhandlung",
+      "english": "bookshop / bookstore",
       "article": "die",
-      "plural": "Gelegenheiten"
+      "plural": "Buchhandlungen"
     },
     {
-      "id": "21",
+      "id": "feminine-nouns-01:schere",
       "type": "noun",
-      "german": "Gesellschaft",
-      "english": "society / company",
+      "german": "Schere",
+      "english": "scissors",
       "article": "die",
-      "plural": "Gesellschaften"
+      "plural": "Scheren"
     },
     {
-      "id": "22",
+      "id": "10",
       "type": "noun",
-      "german": "Entscheidung",
-      "english": "decision",
+      "german": "Reise",
+      "english": "trip / journey",
       "article": "die",
-      "plural": "Entscheidungen"
+      "plural": "Reisen"
     },
     {
       "id": "23",
@@ -189,12 +493,420 @@
       "plural": "Überraschungen"
     },
     {
-      "id": "24",
+      "id": "feminine-nouns-01:diskussion",
       "type": "noun",
-      "german": "Maschine",
-      "english": "machine",
+      "german": "Diskussion",
+      "english": "discussion",
       "article": "die",
-      "plural": "Maschinen"
+      "plural": "Diskussionen"
+    },
+    {
+      "id": "feminine-nouns-01:abfahrt",
+      "type": "noun",
+      "german": "Abfahrt",
+      "english": "departure",
+      "article": "die",
+      "plural": "Abfahrten"
+    },
+    {
+      "id": "feminine-nouns-01:hose",
+      "type": "noun",
+      "german": "Hose",
+      "english": "trousers / pants",
+      "article": "die",
+      "plural": "Hosen"
+    },
+    {
+      "id": "20",
+      "type": "noun",
+      "german": "Gelegenheit",
+      "english": "opportunity / chance",
+      "article": "die",
+      "plural": "Gelegenheiten"
+    },
+    {
+      "id": "feminine-nouns-01:fremdsprache",
+      "type": "noun",
+      "german": "Fremdsprache",
+      "english": "foreign language",
+      "article": "die",
+      "plural": "Fremdsprachen"
+    },
+    {
+      "id": "feminine-nouns-01:suessigkeit",
+      "type": "noun",
+      "german": "Süßigkeit",
+      "english": "sweet / candy",
+      "article": "die",
+      "plural": "Süßigkeiten"
+    },
+    {
+      "id": "feminine-nouns-01:post",
+      "type": "noun",
+      "german": "Post",
+      "english": "mail / post office",
+      "article": "die",
+      "plural": null
+    },
+    {
+      "id": "17",
+      "type": "noun",
+      "german": "Ärztin",
+      "english": "female doctor",
+      "article": "die",
+      "plural": "Ärztinnen"
+    },
+    {
+      "id": "feminine-nouns-01:spaghetti",
+      "type": "noun",
+      "german": "Spaghetti",
+      "english": "spaghetti",
+      "article": "die",
+      "plural": null
+    },
+    {
+      "id": "feminine-nouns-01:sekretaerin",
+      "type": "noun",
+      "german": "Sekretärin",
+      "english": "female secretary",
+      "article": "die",
+      "plural": "Sekretärinnen"
+    },
+    {
+      "id": "18",
+      "type": "noun",
+      "german": "Karte",
+      "english": "card / map",
+      "article": "die",
+      "plural": "Karten"
+    },
+    {
+      "id": "feminine-nouns-01:musik",
+      "type": "noun",
+      "german": "Musik",
+      "english": "music",
+      "article": "die",
+      "plural": null
+    },
+    {
+      "id": "feminine-nouns-01:loesung",
+      "type": "noun",
+      "german": "Lösung",
+      "english": "solution / answer",
+      "article": "die",
+      "plural": "Lösungen"
+    },
+    {
+      "id": "feminine-nouns-01:zukunft",
+      "type": "noun",
+      "german": "Zukunft",
+      "english": "future",
+      "article": "die",
+      "plural": "Zukünfte"
+    },
+    {
+      "id": "feminine-nouns-01:lippe",
+      "type": "noun",
+      "german": "Lippe",
+      "english": "lip",
+      "article": "die",
+      "plural": "Lippen"
+    },
+    {
+      "id": "feminine-nouns-01:besserung",
+      "type": "noun",
+      "german": "Besserung",
+      "english": "improvement / recovery",
+      "article": "die",
+      "plural": null
+    },
+    {
+      "id": "5",
+      "type": "noun",
+      "german": "Zeitung",
+      "english": "newspaper",
+      "article": "die",
+      "plural": "Zeitungen"
+    },
+    {
+      "id": "feminine-nouns-01:uebung",
+      "type": "noun",
+      "german": "Übung",
+      "english": "exercise / practice",
+      "article": "die",
+      "plural": "Übungen"
+    },
+    {
+      "id": "21",
+      "type": "noun",
+      "german": "Gesellschaft",
+      "english": "society / company",
+      "article": "die",
+      "plural": "Gesellschaften"
+    },
+    {
+      "id": "feminine-nouns-01:musikerin",
+      "type": "noun",
+      "german": "Musikerin",
+      "english": "female musician",
+      "article": "die",
+      "plural": "Musikerinnen"
+    },
+    {
+      "id": "feminine-nouns-01:minute",
+      "type": "noun",
+      "german": "Minute",
+      "english": "minute",
+      "article": "die",
+      "plural": "Minuten"
+    },
+    {
+      "id": "feminine-nouns-01:vorlesung",
+      "type": "noun",
+      "german": "Vorlesung",
+      "english": "lecture",
+      "article": "die",
+      "plural": "Vorlesungen"
+    },
+    {
+      "id": "feminine-nouns-01:u-bahn",
+      "type": "noun",
+      "german": "U-Bahn",
+      "english": "subway / underground",
+      "article": "die",
+      "plural": "U-Bahnen"
+    },
+    {
+      "id": "feminine-nouns-01:klage",
+      "type": "noun",
+      "german": "Klage",
+      "english": "complaint / lawsuit",
+      "article": "die",
+      "plural": "Klagen"
+    },
+    {
+      "id": "feminine-nouns-01:stelle",
+      "type": "noun",
+      "german": "Stelle",
+      "english": "place / position / job",
+      "article": "die",
+      "plural": "Stellen"
+    },
+    {
+      "id": "feminine-nouns-01:tuer",
+      "type": "noun",
+      "german": "Tür",
+      "english": "door",
+      "article": "die",
+      "plural": "Türen"
+    },
+    {
+      "id": "feminine-nouns-01:hand",
+      "type": "noun",
+      "german": "Hand",
+      "english": "hand",
+      "article": "die",
+      "plural": "Hände"
+    },
+    {
+      "id": "feminine-nouns-01:linie",
+      "type": "noun",
+      "german": "Linie",
+      "english": "line",
+      "article": "die",
+      "plural": "Linien"
+    },
+    {
+      "id": "feminine-nouns-01:scheidung",
+      "type": "noun",
+      "german": "Scheidung",
+      "english": "divorce",
+      "article": "die",
+      "plural": "Scheidungen"
+    },
+    {
+      "id": "feminine-nouns-01:hausfrau",
+      "type": "noun",
+      "german": "Hausfrau",
+      "english": "housewife",
+      "article": "die",
+      "plural": "Hausfrauen"
+    },
+    {
+      "id": "14",
+      "type": "noun",
+      "german": "Tante",
+      "english": "aunt",
+      "article": "die",
+      "plural": "Tanten"
+    },
+    {
+      "id": "16",
+      "type": "noun",
+      "german": "Lehrerin",
+      "english": "female teacher",
+      "article": "die",
+      "plural": "Lehrerinnen"
+    },
+    {
+      "id": "3",
+      "type": "noun",
+      "german": "Wohnung",
+      "english": "apartment / flat",
+      "article": "die",
+      "plural": "Wohnungen"
+    },
+    {
+      "id": "feminine-nouns-01:groesse",
+      "type": "noun",
+      "german": "Größe",
+      "english": "size",
+      "article": "die",
+      "plural": "Größen"
+    },
+    {
+      "id": "feminine-nouns-01:kasse",
+      "type": "noun",
+      "german": "Kasse",
+      "english": "cash register / checkout",
+      "article": "die",
+      "plural": "Kassen"
+    },
+    {
+      "id": "feminine-nouns-01:sache",
+      "type": "noun",
+      "german": "Sache",
+      "english": "thing / matter",
+      "article": "die",
+      "plural": "Sachen"
+    },
+    {
+      "id": "feminine-nouns-01:schnur",
+      "type": "noun",
+      "german": "Schnur",
+      "english": "string / cord",
+      "article": "die",
+      "plural": "Schnüre"
+    },
+    {
+      "id": "feminine-nouns-01:einladung",
+      "type": "noun",
+      "german": "Einladung",
+      "english": "invitation",
+      "article": "die",
+      "plural": "Einladungen"
+    },
+    {
+      "id": "feminine-nouns-01:heimat",
+      "type": "noun",
+      "german": "Heimat",
+      "english": "home / homeland",
+      "article": "die",
+      "plural": null
+    },
+    {
+      "id": "22",
+      "type": "noun",
+      "german": "Entscheidung",
+      "english": "decision",
+      "article": "die",
+      "plural": "Entscheidungen"
+    },
+    {
+      "id": "feminine-nouns-01:angst",
+      "type": "noun",
+      "german": "Angst",
+      "english": "fear / anxiety",
+      "article": "die",
+      "plural": "Ängste"
+    },
+    {
+      "id": "feminine-nouns-01:vase",
+      "type": "noun",
+      "german": "Vase",
+      "english": "vase",
+      "article": "die",
+      "plural": "Vasen"
+    },
+    {
+      "id": "4",
+      "type": "noun",
+      "german": "Flasche",
+      "english": "bottle",
+      "article": "die",
+      "plural": "Flaschen"
+    },
+    {
+      "id": "feminine-nouns-01:grippe",
+      "type": "noun",
+      "german": "Grippe",
+      "english": "flu",
+      "article": "die",
+      "plural": null
+    },
+    {
+      "id": "feminine-nouns-01:ruhe",
+      "type": "noun",
+      "german": "Ruhe",
+      "english": "rest / quiet",
+      "article": "die",
+      "plural": null
+    },
+    {
+      "id": "feminine-nouns-01:familie",
+      "type": "noun",
+      "german": "Familie",
+      "english": "family",
+      "article": "die",
+      "plural": "Familien"
+    },
+    {
+      "id": "feminine-nouns-01:pizza",
+      "type": "noun",
+      "german": "Pizza",
+      "english": "pizza",
+      "article": "die",
+      "plural": "Pizzas"
+    },
+    {
+      "id": "feminine-nouns-01:zigarette",
+      "type": "noun",
+      "german": "Zigarette",
+      "english": "cigarette",
+      "article": "die",
+      "plural": "Zigaretten"
+    },
+    {
+      "id": "feminine-nouns-01:zeit",
+      "type": "noun",
+      "german": "Zeit",
+      "english": "time",
+      "article": "die",
+      "plural": "Zeiten"
+    },
+    {
+      "id": "feminine-nouns-01:zahl",
+      "type": "noun",
+      "german": "Zahl",
+      "english": "number",
+      "article": "die",
+      "plural": "Zahlen"
+    },
+    {
+      "id": "feminine-nouns-01:matratze",
+      "type": "noun",
+      "german": "Matratze",
+      "english": "mattress",
+      "article": "die",
+      "plural": "Matratzen"
+    },
+    {
+      "id": "feminine-nouns-01:stirn",
+      "type": "noun",
+      "german": "Stirn",
+      "english": "forehead",
+      "article": "die",
+      "plural": "Stirnen"
     }
   ]
 }

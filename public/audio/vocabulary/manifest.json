@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T10:32:16.227Z",
+  "generatedAt": "2026-09-01T10:56:26.555Z",
   "voiceId": "Xb7hH8MSUJpSbSDYk0k2",
   "voiceName": "Alice - Clear, Engaging Educator",
   "modelId": "eleven_multilingual_v2",
@@ -292,6 +292,1074 @@
       "variant": "word",
       "text": "Maschine",
       "path": "audio/vocabulary/24-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:abfahrt",
+      "variant": "full",
+      "text": "die Abfahrt",
+      "path": "audio/vocabulary/feminine-nouns-01--abfahrt-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:abfahrt",
+      "variant": "word",
+      "text": "Abfahrt",
+      "path": "audio/vocabulary/feminine-nouns-01--abfahrt-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:adresse",
+      "variant": "full",
+      "text": "die Adresse",
+      "path": "audio/vocabulary/feminine-nouns-01--adresse-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:adresse",
+      "variant": "word",
+      "text": "Adresse",
+      "path": "audio/vocabulary/feminine-nouns-01--adresse-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:angst",
+      "variant": "full",
+      "text": "die Angst",
+      "path": "audio/vocabulary/feminine-nouns-01--angst-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:angst",
+      "variant": "word",
+      "text": "Angst",
+      "path": "audio/vocabulary/feminine-nouns-01--angst-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:arbeit",
+      "variant": "full",
+      "text": "die Arbeit",
+      "path": "audio/vocabulary/feminine-nouns-01--arbeit-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:arbeit",
+      "variant": "word",
+      "text": "Arbeit",
+      "path": "audio/vocabulary/feminine-nouns-01--arbeit-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:arbeiterin",
+      "variant": "full",
+      "text": "die Arbeiterin",
+      "path": "audio/vocabulary/feminine-nouns-01--arbeiterin-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:arbeiterin",
+      "variant": "word",
+      "text": "Arbeiterin",
+      "path": "audio/vocabulary/feminine-nouns-01--arbeiterin-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:ausbildung",
+      "variant": "full",
+      "text": "die Ausbildung",
+      "path": "audio/vocabulary/feminine-nouns-01--ausbildung-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:ausbildung",
+      "variant": "word",
+      "text": "Ausbildung",
+      "path": "audio/vocabulary/feminine-nouns-01--ausbildung-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:besprechung",
+      "variant": "full",
+      "text": "die Besprechung",
+      "path": "audio/vocabulary/feminine-nouns-01--besprechung-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:besprechung",
+      "variant": "word",
+      "text": "Besprechung",
+      "path": "audio/vocabulary/feminine-nouns-01--besprechung-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:besserung",
+      "variant": "full",
+      "text": "die Besserung",
+      "path": "audio/vocabulary/feminine-nouns-01--besserung-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:besserung",
+      "variant": "word",
+      "text": "Besserung",
+      "path": "audio/vocabulary/feminine-nouns-01--besserung-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:buchhandlung",
+      "variant": "full",
+      "text": "die Buchhandlung",
+      "path": "audio/vocabulary/feminine-nouns-01--buchhandlung-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:buchhandlung",
+      "variant": "word",
+      "text": "Buchhandlung",
+      "path": "audio/vocabulary/feminine-nouns-01--buchhandlung-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:dame",
+      "variant": "full",
+      "text": "die Dame",
+      "path": "audio/vocabulary/feminine-nouns-01--dame-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:dame",
+      "variant": "word",
+      "text": "Dame",
+      "path": "audio/vocabulary/feminine-nouns-01--dame-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:diskussion",
+      "variant": "full",
+      "text": "die Diskussion",
+      "path": "audio/vocabulary/feminine-nouns-01--diskussion-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:diskussion",
+      "variant": "word",
+      "text": "Diskussion",
+      "path": "audio/vocabulary/feminine-nouns-01--diskussion-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:ecke",
+      "variant": "full",
+      "text": "die Ecke",
+      "path": "audio/vocabulary/feminine-nouns-01--ecke-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:ecke",
+      "variant": "word",
+      "text": "Ecke",
+      "path": "audio/vocabulary/feminine-nouns-01--ecke-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:ehe",
+      "variant": "full",
+      "text": "die Ehe",
+      "path": "audio/vocabulary/feminine-nouns-01--ehe-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:ehe",
+      "variant": "word",
+      "text": "Ehe",
+      "path": "audio/vocabulary/feminine-nouns-01--ehe-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:einladung",
+      "variant": "full",
+      "text": "die Einladung",
+      "path": "audio/vocabulary/feminine-nouns-01--einladung-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:einladung",
+      "variant": "word",
+      "text": "Einladung",
+      "path": "audio/vocabulary/feminine-nouns-01--einladung-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:fahrt",
+      "variant": "full",
+      "text": "die Fahrt",
+      "path": "audio/vocabulary/feminine-nouns-01--fahrt-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:fahrt",
+      "variant": "word",
+      "text": "Fahrt",
+      "path": "audio/vocabulary/feminine-nouns-01--fahrt-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:familie",
+      "variant": "full",
+      "text": "die Familie",
+      "path": "audio/vocabulary/feminine-nouns-01--familie-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:familie",
+      "variant": "word",
+      "text": "Familie",
+      "path": "audio/vocabulary/feminine-nouns-01--familie-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:farbe",
+      "variant": "full",
+      "text": "die Farbe",
+      "path": "audio/vocabulary/feminine-nouns-01--farbe-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:farbe",
+      "variant": "word",
+      "text": "Farbe",
+      "path": "audio/vocabulary/feminine-nouns-01--farbe-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:firma",
+      "variant": "full",
+      "text": "die Firma",
+      "path": "audio/vocabulary/feminine-nouns-01--firma-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:firma",
+      "variant": "word",
+      "text": "Firma",
+      "path": "audio/vocabulary/feminine-nouns-01--firma-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:freizeit",
+      "variant": "full",
+      "text": "die Freizeit",
+      "path": "audio/vocabulary/feminine-nouns-01--freizeit-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:freizeit",
+      "variant": "word",
+      "text": "Freizeit",
+      "path": "audio/vocabulary/feminine-nouns-01--freizeit-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:fremdsprache",
+      "variant": "full",
+      "text": "die Fremdsprache",
+      "path": "audio/vocabulary/feminine-nouns-01--fremdsprache-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:fremdsprache",
+      "variant": "word",
+      "text": "Fremdsprache",
+      "path": "audio/vocabulary/feminine-nouns-01--fremdsprache-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:freundschaft",
+      "variant": "full",
+      "text": "die Freundschaft",
+      "path": "audio/vocabulary/feminine-nouns-01--freundschaft-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:freundschaft",
+      "variant": "word",
+      "text": "Freundschaft",
+      "path": "audio/vocabulary/feminine-nouns-01--freundschaft-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:geschwister",
+      "variant": "full",
+      "text": "die Geschwister",
+      "path": "audio/vocabulary/feminine-nouns-01--geschwister-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:geschwister",
+      "variant": "word",
+      "text": "Geschwister",
+      "path": "audio/vocabulary/feminine-nouns-01--geschwister-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:gitarre",
+      "variant": "full",
+      "text": "die Gitarre",
+      "path": "audio/vocabulary/feminine-nouns-01--gitarre-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:gitarre",
+      "variant": "word",
+      "text": "Gitarre",
+      "path": "audio/vocabulary/feminine-nouns-01--gitarre-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:grippe",
+      "variant": "full",
+      "text": "die Grippe",
+      "path": "audio/vocabulary/feminine-nouns-01--grippe-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:grippe",
+      "variant": "word",
+      "text": "Grippe",
+      "path": "audio/vocabulary/feminine-nouns-01--grippe-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:groesse",
+      "variant": "full",
+      "text": "die Größe",
+      "path": "audio/vocabulary/feminine-nouns-01--groesse-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:groesse",
+      "variant": "word",
+      "text": "Größe",
+      "path": "audio/vocabulary/feminine-nouns-01--groesse-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:haltestelle",
+      "variant": "full",
+      "text": "die Haltestelle",
+      "path": "audio/vocabulary/feminine-nouns-01--haltestelle-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:haltestelle",
+      "variant": "word",
+      "text": "Haltestelle",
+      "path": "audio/vocabulary/feminine-nouns-01--haltestelle-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:hand",
+      "variant": "full",
+      "text": "die Hand",
+      "path": "audio/vocabulary/feminine-nouns-01--hand-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:hand",
+      "variant": "word",
+      "text": "Hand",
+      "path": "audio/vocabulary/feminine-nouns-01--hand-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:hausfrau",
+      "variant": "full",
+      "text": "die Hausfrau",
+      "path": "audio/vocabulary/feminine-nouns-01--hausfrau-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:hausfrau",
+      "variant": "word",
+      "text": "Hausfrau",
+      "path": "audio/vocabulary/feminine-nouns-01--hausfrau-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:heimat",
+      "variant": "full",
+      "text": "die Heimat",
+      "path": "audio/vocabulary/feminine-nouns-01--heimat-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:heimat",
+      "variant": "word",
+      "text": "Heimat",
+      "path": "audio/vocabulary/feminine-nouns-01--heimat-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:hochzeit",
+      "variant": "full",
+      "text": "die Hochzeit",
+      "path": "audio/vocabulary/feminine-nouns-01--hochzeit-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:hochzeit",
+      "variant": "word",
+      "text": "Hochzeit",
+      "path": "audio/vocabulary/feminine-nouns-01--hochzeit-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:hose",
+      "variant": "full",
+      "text": "die Hose",
+      "path": "audio/vocabulary/feminine-nouns-01--hose-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:hose",
+      "variant": "word",
+      "text": "Hose",
+      "path": "audio/vocabulary/feminine-nouns-01--hose-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:jacke",
+      "variant": "full",
+      "text": "die Jacke",
+      "path": "audio/vocabulary/feminine-nouns-01--jacke-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:jacke",
+      "variant": "word",
+      "text": "Jacke",
+      "path": "audio/vocabulary/feminine-nouns-01--jacke-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:kasse",
+      "variant": "full",
+      "text": "die Kasse",
+      "path": "audio/vocabulary/feminine-nouns-01--kasse-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:kasse",
+      "variant": "word",
+      "text": "Kasse",
+      "path": "audio/vocabulary/feminine-nouns-01--kasse-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:kiste",
+      "variant": "full",
+      "text": "die Kiste",
+      "path": "audio/vocabulary/feminine-nouns-01--kiste-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:kiste",
+      "variant": "word",
+      "text": "Kiste",
+      "path": "audio/vocabulary/feminine-nouns-01--kiste-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:klage",
+      "variant": "full",
+      "text": "die Klage",
+      "path": "audio/vocabulary/feminine-nouns-01--klage-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:klage",
+      "variant": "word",
+      "text": "Klage",
+      "path": "audio/vocabulary/feminine-nouns-01--klage-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:krankenschwester",
+      "variant": "full",
+      "text": "die Krankenschwester",
+      "path": "audio/vocabulary/feminine-nouns-01--krankenschwester-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:krankenschwester",
+      "variant": "word",
+      "text": "Krankenschwester",
+      "path": "audio/vocabulary/feminine-nouns-01--krankenschwester-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:kueche",
+      "variant": "full",
+      "text": "die Küche",
+      "path": "audio/vocabulary/feminine-nouns-01--kueche-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:kueche",
+      "variant": "word",
+      "text": "Küche",
+      "path": "audio/vocabulary/feminine-nouns-01--kueche-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:limonade",
+      "variant": "full",
+      "text": "die Limonade",
+      "path": "audio/vocabulary/feminine-nouns-01--limonade-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:limonade",
+      "variant": "word",
+      "text": "Limonade",
+      "path": "audio/vocabulary/feminine-nouns-01--limonade-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:linie",
+      "variant": "full",
+      "text": "die Linie",
+      "path": "audio/vocabulary/feminine-nouns-01--linie-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:linie",
+      "variant": "word",
+      "text": "Linie",
+      "path": "audio/vocabulary/feminine-nouns-01--linie-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:lippe",
+      "variant": "full",
+      "text": "die Lippe",
+      "path": "audio/vocabulary/feminine-nouns-01--lippe-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:lippe",
+      "variant": "word",
+      "text": "Lippe",
+      "path": "audio/vocabulary/feminine-nouns-01--lippe-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:loesung",
+      "variant": "full",
+      "text": "die Lösung",
+      "path": "audio/vocabulary/feminine-nouns-01--loesung-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:loesung",
+      "variant": "word",
+      "text": "Lösung",
+      "path": "audio/vocabulary/feminine-nouns-01--loesung-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:marke",
+      "variant": "full",
+      "text": "die Marke",
+      "path": "audio/vocabulary/feminine-nouns-01--marke-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:marke",
+      "variant": "word",
+      "text": "Marke",
+      "path": "audio/vocabulary/feminine-nouns-01--marke-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:matratze",
+      "variant": "full",
+      "text": "die Matratze",
+      "path": "audio/vocabulary/feminine-nouns-01--matratze-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:matratze",
+      "variant": "word",
+      "text": "Matratze",
+      "path": "audio/vocabulary/feminine-nouns-01--matratze-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:medizin",
+      "variant": "full",
+      "text": "die Medizin",
+      "path": "audio/vocabulary/feminine-nouns-01--medizin-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:medizin",
+      "variant": "word",
+      "text": "Medizin",
+      "path": "audio/vocabulary/feminine-nouns-01--medizin-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:meinung",
+      "variant": "full",
+      "text": "die Meinung",
+      "path": "audio/vocabulary/feminine-nouns-01--meinung-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:meinung",
+      "variant": "word",
+      "text": "Meinung",
+      "path": "audio/vocabulary/feminine-nouns-01--meinung-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:milch",
+      "variant": "full",
+      "text": "die Milch",
+      "path": "audio/vocabulary/feminine-nouns-01--milch-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:milch",
+      "variant": "word",
+      "text": "Milch",
+      "path": "audio/vocabulary/feminine-nouns-01--milch-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:minute",
+      "variant": "full",
+      "text": "die Minute",
+      "path": "audio/vocabulary/feminine-nouns-01--minute-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:minute",
+      "variant": "word",
+      "text": "Minute",
+      "path": "audio/vocabulary/feminine-nouns-01--minute-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:mitte",
+      "variant": "full",
+      "text": "die Mitte",
+      "path": "audio/vocabulary/feminine-nouns-01--mitte-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:mitte",
+      "variant": "word",
+      "text": "Mitte",
+      "path": "audio/vocabulary/feminine-nouns-01--mitte-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:musik",
+      "variant": "full",
+      "text": "die Musik",
+      "path": "audio/vocabulary/feminine-nouns-01--musik-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:musik",
+      "variant": "word",
+      "text": "Musik",
+      "path": "audio/vocabulary/feminine-nouns-01--musik-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:musikerin",
+      "variant": "full",
+      "text": "die Musikerin",
+      "path": "audio/vocabulary/feminine-nouns-01--musikerin-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:musikerin",
+      "variant": "word",
+      "text": "Musikerin",
+      "path": "audio/vocabulary/feminine-nouns-01--musikerin-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:nacht",
+      "variant": "full",
+      "text": "die Nacht",
+      "path": "audio/vocabulary/feminine-nouns-01--nacht-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:nacht",
+      "variant": "word",
+      "text": "Nacht",
+      "path": "audio/vocabulary/feminine-nouns-01--nacht-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:nase",
+      "variant": "full",
+      "text": "die Nase",
+      "path": "audio/vocabulary/feminine-nouns-01--nase-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:nase",
+      "variant": "word",
+      "text": "Nase",
+      "path": "audio/vocabulary/feminine-nouns-01--nase-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:pizza",
+      "variant": "full",
+      "text": "die Pizza",
+      "path": "audio/vocabulary/feminine-nouns-01--pizza-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:pizza",
+      "variant": "word",
+      "text": "Pizza",
+      "path": "audio/vocabulary/feminine-nouns-01--pizza-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:polizei",
+      "variant": "full",
+      "text": "die Polizei",
+      "path": "audio/vocabulary/feminine-nouns-01--polizei-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:polizei",
+      "variant": "word",
+      "text": "Polizei",
+      "path": "audio/vocabulary/feminine-nouns-01--polizei-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:post",
+      "variant": "full",
+      "text": "die Post",
+      "path": "audio/vocabulary/feminine-nouns-01--post-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:post",
+      "variant": "word",
+      "text": "Post",
+      "path": "audio/vocabulary/feminine-nouns-01--post-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:pruefung",
+      "variant": "full",
+      "text": "die Prüfung",
+      "path": "audio/vocabulary/feminine-nouns-01--pruefung-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:pruefung",
+      "variant": "word",
+      "text": "Prüfung",
+      "path": "audio/vocabulary/feminine-nouns-01--pruefung-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:qualitaet",
+      "variant": "full",
+      "text": "die Qualität",
+      "path": "audio/vocabulary/feminine-nouns-01--qualitaet-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:qualitaet",
+      "variant": "word",
+      "text": "Qualität",
+      "path": "audio/vocabulary/feminine-nouns-01--qualitaet-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:richtung",
+      "variant": "full",
+      "text": "die Richtung",
+      "path": "audio/vocabulary/feminine-nouns-01--richtung-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:richtung",
+      "variant": "word",
+      "text": "Richtung",
+      "path": "audio/vocabulary/feminine-nouns-01--richtung-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:ruhe",
+      "variant": "full",
+      "text": "die Ruhe",
+      "path": "audio/vocabulary/feminine-nouns-01--ruhe-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:ruhe",
+      "variant": "word",
+      "text": "Ruhe",
+      "path": "audio/vocabulary/feminine-nouns-01--ruhe-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:sache",
+      "variant": "full",
+      "text": "die Sache",
+      "path": "audio/vocabulary/feminine-nouns-01--sache-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:sache",
+      "variant": "word",
+      "text": "Sache",
+      "path": "audio/vocabulary/feminine-nouns-01--sache-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:scheidung",
+      "variant": "full",
+      "text": "die Scheidung",
+      "path": "audio/vocabulary/feminine-nouns-01--scheidung-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:scheidung",
+      "variant": "word",
+      "text": "Scheidung",
+      "path": "audio/vocabulary/feminine-nouns-01--scheidung-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:schere",
+      "variant": "full",
+      "text": "die Schere",
+      "path": "audio/vocabulary/feminine-nouns-01--schere-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:schere",
+      "variant": "word",
+      "text": "Schere",
+      "path": "audio/vocabulary/feminine-nouns-01--schere-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:schnur",
+      "variant": "full",
+      "text": "die Schnur",
+      "path": "audio/vocabulary/feminine-nouns-01--schnur-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:schnur",
+      "variant": "word",
+      "text": "Schnur",
+      "path": "audio/vocabulary/feminine-nouns-01--schnur-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:schuelerin",
+      "variant": "full",
+      "text": "die Schülerin",
+      "path": "audio/vocabulary/feminine-nouns-01--schuelerin-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:schuelerin",
+      "variant": "word",
+      "text": "Schülerin",
+      "path": "audio/vocabulary/feminine-nouns-01--schuelerin-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:schwester",
+      "variant": "full",
+      "text": "die Schwester",
+      "path": "audio/vocabulary/feminine-nouns-01--schwester-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:schwester",
+      "variant": "word",
+      "text": "Schwester",
+      "path": "audio/vocabulary/feminine-nouns-01--schwester-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:sekretaerin",
+      "variant": "full",
+      "text": "die Sekretärin",
+      "path": "audio/vocabulary/feminine-nouns-01--sekretaerin-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:sekretaerin",
+      "variant": "word",
+      "text": "Sekretärin",
+      "path": "audio/vocabulary/feminine-nouns-01--sekretaerin-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:sekunde",
+      "variant": "full",
+      "text": "die Sekunde",
+      "path": "audio/vocabulary/feminine-nouns-01--sekunde-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:sekunde",
+      "variant": "word",
+      "text": "Sekunde",
+      "path": "audio/vocabulary/feminine-nouns-01--sekunde-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:sorge",
+      "variant": "full",
+      "text": "die Sorge",
+      "path": "audio/vocabulary/feminine-nouns-01--sorge-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:sorge",
+      "variant": "word",
+      "text": "Sorge",
+      "path": "audio/vocabulary/feminine-nouns-01--sorge-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:spaghetti",
+      "variant": "full",
+      "text": "die Spaghetti",
+      "path": "audio/vocabulary/feminine-nouns-01--spaghetti-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:spaghetti",
+      "variant": "word",
+      "text": "Spaghetti",
+      "path": "audio/vocabulary/feminine-nouns-01--spaghetti-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:stadt",
+      "variant": "full",
+      "text": "die Stadt",
+      "path": "audio/vocabulary/feminine-nouns-01--stadt-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:stadt",
+      "variant": "word",
+      "text": "Stadt",
+      "path": "audio/vocabulary/feminine-nouns-01--stadt-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:stelle",
+      "variant": "full",
+      "text": "die Stelle",
+      "path": "audio/vocabulary/feminine-nouns-01--stelle-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:stelle",
+      "variant": "word",
+      "text": "Stelle",
+      "path": "audio/vocabulary/feminine-nouns-01--stelle-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:stirn",
+      "variant": "full",
+      "text": "die Stirn",
+      "path": "audio/vocabulary/feminine-nouns-01--stirn-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:stirn",
+      "variant": "word",
+      "text": "Stirn",
+      "path": "audio/vocabulary/feminine-nouns-01--stirn-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:studentin",
+      "variant": "full",
+      "text": "die Studentin",
+      "path": "audio/vocabulary/feminine-nouns-01--studentin-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:studentin",
+      "variant": "word",
+      "text": "Studentin",
+      "path": "audio/vocabulary/feminine-nouns-01--studentin-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:stunde",
+      "variant": "full",
+      "text": "die Stunde",
+      "path": "audio/vocabulary/feminine-nouns-01--stunde-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:stunde",
+      "variant": "word",
+      "text": "Stunde",
+      "path": "audio/vocabulary/feminine-nouns-01--stunde-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:suessigkeit",
+      "variant": "full",
+      "text": "die Süßigkeit",
+      "path": "audio/vocabulary/feminine-nouns-01--suessigkeit-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:suessigkeit",
+      "variant": "word",
+      "text": "Süßigkeit",
+      "path": "audio/vocabulary/feminine-nouns-01--suessigkeit-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:tafel",
+      "variant": "full",
+      "text": "die Tafel",
+      "path": "audio/vocabulary/feminine-nouns-01--tafel-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:tafel",
+      "variant": "word",
+      "text": "Tafel",
+      "path": "audio/vocabulary/feminine-nouns-01--tafel-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:tuer",
+      "variant": "full",
+      "text": "die Tür",
+      "path": "audio/vocabulary/feminine-nouns-01--tuer-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:tuer",
+      "variant": "word",
+      "text": "Tür",
+      "path": "audio/vocabulary/feminine-nouns-01--tuer-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:u-bahn",
+      "variant": "full",
+      "text": "die U-Bahn",
+      "path": "audio/vocabulary/feminine-nouns-01--u-bahn-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:u-bahn",
+      "variant": "word",
+      "text": "U-Bahn",
+      "path": "audio/vocabulary/feminine-nouns-01--u-bahn-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:uebung",
+      "variant": "full",
+      "text": "die Übung",
+      "path": "audio/vocabulary/feminine-nouns-01--uebung-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:uebung",
+      "variant": "word",
+      "text": "Übung",
+      "path": "audio/vocabulary/feminine-nouns-01--uebung-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:uhr",
+      "variant": "full",
+      "text": "die Uhr",
+      "path": "audio/vocabulary/feminine-nouns-01--uhr-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:uhr",
+      "variant": "word",
+      "text": "Uhr",
+      "path": "audio/vocabulary/feminine-nouns-01--uhr-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:unterhaltung",
+      "variant": "full",
+      "text": "die Unterhaltung",
+      "path": "audio/vocabulary/feminine-nouns-01--unterhaltung-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:unterhaltung",
+      "variant": "word",
+      "text": "Unterhaltung",
+      "path": "audio/vocabulary/feminine-nouns-01--unterhaltung-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:vase",
+      "variant": "full",
+      "text": "die Vase",
+      "path": "audio/vocabulary/feminine-nouns-01--vase-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:vase",
+      "variant": "word",
+      "text": "Vase",
+      "path": "audio/vocabulary/feminine-nouns-01--vase-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:vorlesung",
+      "variant": "full",
+      "text": "die Vorlesung",
+      "path": "audio/vocabulary/feminine-nouns-01--vorlesung-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:vorlesung",
+      "variant": "word",
+      "text": "Vorlesung",
+      "path": "audio/vocabulary/feminine-nouns-01--vorlesung-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:wand",
+      "variant": "full",
+      "text": "die Wand",
+      "path": "audio/vocabulary/feminine-nouns-01--wand-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:wand",
+      "variant": "word",
+      "text": "Wand",
+      "path": "audio/vocabulary/feminine-nouns-01--wand-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:zahl",
+      "variant": "full",
+      "text": "die Zahl",
+      "path": "audio/vocabulary/feminine-nouns-01--zahl-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:zahl",
+      "variant": "word",
+      "text": "Zahl",
+      "path": "audio/vocabulary/feminine-nouns-01--zahl-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:zeit",
+      "variant": "full",
+      "text": "die Zeit",
+      "path": "audio/vocabulary/feminine-nouns-01--zeit-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:zeit",
+      "variant": "word",
+      "text": "Zeit",
+      "path": "audio/vocabulary/feminine-nouns-01--zeit-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:zigarette",
+      "variant": "full",
+      "text": "die Zigarette",
+      "path": "audio/vocabulary/feminine-nouns-01--zigarette-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:zigarette",
+      "variant": "word",
+      "text": "Zigarette",
+      "path": "audio/vocabulary/feminine-nouns-01--zigarette-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:zukunft",
+      "variant": "full",
+      "text": "die Zukunft",
+      "path": "audio/vocabulary/feminine-nouns-01--zukunft-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:zukunft",
+      "variant": "word",
+      "text": "Zukunft",
+      "path": "audio/vocabulary/feminine-nouns-01--zukunft-word.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:zunge",
+      "variant": "full",
+      "text": "die Zunge",
+      "path": "audio/vocabulary/feminine-nouns-01--zunge-full.mp3"
+    },
+    {
+      "vocabId": "feminine-nouns-01:zunge",
+      "variant": "word",
+      "text": "Zunge",
+      "path": "audio/vocabulary/feminine-nouns-01--zunge-word.mp3"
     },
     {
       "vocabId": "masculine-nouns-01:abend",
