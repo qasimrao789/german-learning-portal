@@ -1,0 +1,656 @@
+{
+  "topicId": "neuter-nouns-01",
+  "title": "Neuter Nouns — Complete Page",
+  "level": "A1",
+  "kind": "vocabulary",
+  "items": [
+    {
+      "id": "neuter-nouns-01:baby",
+      "type": "noun",
+      "german": "Baby",
+      "english": "baby",
+      "article": "das",
+      "plural": "Babys"
+    },
+    {
+      "id": "neuter-nouns-01:fraeulein",
+      "type": "noun",
+      "german": "Fräulein",
+      "english": "young lady / miss",
+      "article": "das",
+      "plural": "Fräulein"
+    },
+    {
+      "id": "neuter-nouns-01:land",
+      "type": "noun",
+      "german": "Land",
+      "english": "country",
+      "article": "das",
+      "plural": "Länder"
+    },
+    {
+      "id": "neuter-nouns-01:handy",
+      "type": "noun",
+      "german": "Handy",
+      "english": "mobile phone / cell phone",
+      "article": "das",
+      "plural": "Handys"
+    },
+    {
+      "id": "neuter-nouns-01:heft",
+      "type": "noun",
+      "german": "Heft",
+      "english": "notebook / exercise book",
+      "article": "das",
+      "plural": "Hefte"
+    },
+    {
+      "id": "neuter-nouns-01:fleisch",
+      "type": "noun",
+      "german": "Fleisch",
+      "english": "meat",
+      "article": "das",
+      "plural": null
+    },
+    {
+      "id": "neuter-nouns-01:gesicht",
+      "type": "noun",
+      "german": "Gesicht",
+      "english": "face",
+      "article": "das",
+      "plural": "Gesichter"
+    },
+    {
+      "id": "neuter-nouns-01:haar",
+      "type": "noun",
+      "german": "Haar",
+      "english": "hair",
+      "article": "das",
+      "plural": "Haare"
+    },
+    {
+      "id": "neuter-nouns-01:herz",
+      "type": "noun",
+      "german": "Herz",
+      "english": "heart",
+      "article": "das",
+      "plural": "Herzen"
+    },
+    {
+      "id": "neuter-nouns-01:mittagessen",
+      "type": "noun",
+      "german": "Mittagessen",
+      "english": "lunch",
+      "article": "das",
+      "plural": null
+    },
+    {
+      "id": "neuter-nouns-01:geschaeft",
+      "type": "noun",
+      "german": "Geschäft",
+      "english": "shop / business",
+      "article": "das",
+      "plural": "Geschäfte"
+    },
+    {
+      "id": "neuter-nouns-01:paeckchen",
+      "type": "noun",
+      "german": "Päckchen",
+      "english": "small package / parcel",
+      "article": "das",
+      "plural": "Päckchen"
+    },
+    {
+      "id": "neuter-nouns-01:fotoalbum",
+      "type": "noun",
+      "german": "Fotoalbum",
+      "english": "photo album",
+      "article": "das",
+      "plural": "Fotoalben"
+    },
+    {
+      "id": "neuter-nouns-01:sofa",
+      "type": "noun",
+      "german": "Sofa",
+      "english": "sofa",
+      "article": "das",
+      "plural": "Sofas"
+    },
+    {
+      "id": "neuter-nouns-01:glas",
+      "type": "noun",
+      "german": "Glas",
+      "english": "glass",
+      "article": "das",
+      "plural": "Gläser"
+    },
+    {
+      "id": "neuter-nouns-01:flugzeug",
+      "type": "noun",
+      "german": "Flugzeug",
+      "english": "airplane",
+      "article": "das",
+      "plural": "Flugzeuge"
+    },
+    {
+      "id": "neuter-nouns-01:spiel",
+      "type": "noun",
+      "german": "Spiel",
+      "english": "game",
+      "article": "das",
+      "plural": "Spiele"
+    },
+    {
+      "id": "neuter-nouns-01:zimmer",
+      "type": "noun",
+      "german": "Zimmer",
+      "english": "room",
+      "article": "das",
+      "plural": "Zimmer"
+    },
+    {
+      "id": "neuter-nouns-01:radio",
+      "type": "noun",
+      "german": "Radio",
+      "english": "radio",
+      "article": "das",
+      "plural": "Radios"
+    },
+    {
+      "id": "neuter-nouns-01:hotel",
+      "type": "noun",
+      "german": "Hotel",
+      "english": "hotel",
+      "article": "das",
+      "plural": "Hotels"
+    },
+    {
+      "id": "neuter-nouns-01:geld",
+      "type": "noun",
+      "german": "Geld",
+      "english": "money",
+      "article": "das",
+      "plural": null
+    },
+    {
+      "id": "neuter-nouns-01:woerterbuch",
+      "type": "noun",
+      "german": "Wörterbuch",
+      "english": "dictionary",
+      "article": "das",
+      "plural": "Wörterbücher"
+    },
+    {
+      "id": "neuter-nouns-01:pfund",
+      "type": "noun",
+      "german": "Pfund",
+      "english": "pound",
+      "article": "das",
+      "plural": "Pfund"
+    },
+    {
+      "id": "neuter-nouns-01:einzelkind",
+      "type": "noun",
+      "german": "Einzelkind",
+      "english": "only child",
+      "article": "das",
+      "plural": "Einzelkinder"
+    },
+    {
+      "id": "neuter-nouns-01:institut",
+      "type": "noun",
+      "german": "Institut",
+      "english": "institute",
+      "article": "das",
+      "plural": "Institute"
+    },
+    {
+      "id": "neuter-nouns-01:fach",
+      "type": "noun",
+      "german": "Fach",
+      "english": "subject / compartment",
+      "article": "das",
+      "plural": "Fächer"
+    },
+    {
+      "id": "neuter-nouns-01:silber",
+      "type": "noun",
+      "german": "Silber",
+      "english": "silver",
+      "article": "das",
+      "plural": null
+    },
+    {
+      "id": "neuter-nouns-01:kind",
+      "type": "noun",
+      "german": "Kind",
+      "english": "child",
+      "article": "das",
+      "plural": "Kinder"
+    },
+    {
+      "id": "neuter-nouns-01:schild",
+      "type": "noun",
+      "german": "Schild",
+      "english": "sign / shield",
+      "article": "das",
+      "plural": "Schilder"
+    },
+    {
+      "id": "neuter-nouns-01:auto",
+      "type": "noun",
+      "german": "Auto",
+      "english": "car",
+      "article": "das",
+      "plural": "Autos"
+    },
+    {
+      "id": "neuter-nouns-01:buch",
+      "type": "noun",
+      "german": "Buch",
+      "english": "book",
+      "article": "das",
+      "plural": "Bücher"
+    },
+    {
+      "id": "neuter-nouns-01:wasser",
+      "type": "noun",
+      "german": "Wasser",
+      "english": "water",
+      "article": "das",
+      "plural": null
+    },
+    {
+      "id": "neuter-nouns-01:rindfleisch",
+      "type": "noun",
+      "german": "Rindfleisch",
+      "english": "beef",
+      "article": "das",
+      "plural": null
+    },
+    {
+      "id": "neuter-nouns-01:ziel",
+      "type": "noun",
+      "german": "Ziel",
+      "english": "goal / destination",
+      "article": "das",
+      "plural": "Ziele"
+    },
+    {
+      "id": "neuter-nouns-01:auge",
+      "type": "noun",
+      "german": "Auge",
+      "english": "eye",
+      "article": "das",
+      "plural": "Augen"
+    },
+    {
+      "id": "neuter-nouns-01:bein",
+      "type": "noun",
+      "german": "Bein",
+      "english": "leg",
+      "article": "das",
+      "plural": "Beine"
+    },
+    {
+      "id": "neuter-nouns-01:abendessen",
+      "type": "noun",
+      "german": "Abendessen",
+      "english": "dinner / evening meal",
+      "article": "das",
+      "plural": null
+    },
+    {
+      "id": "neuter-nouns-01:lied",
+      "type": "noun",
+      "german": "Lied",
+      "english": "song",
+      "article": "das",
+      "plural": "Lieder"
+    },
+    {
+      "id": "neuter-nouns-01:weihnachten",
+      "type": "noun",
+      "german": "Weihnachten",
+      "english": "Christmas",
+      "article": "das",
+      "plural": null
+    },
+    {
+      "id": "neuter-nouns-01:kopfweh",
+      "type": "noun",
+      "german": "Kopfweh",
+      "english": "headache",
+      "article": "das",
+      "plural": null
+    },
+    {
+      "id": "neuter-nouns-01:restaurant",
+      "type": "noun",
+      "german": "Restaurant",
+      "english": "restaurant",
+      "article": "das",
+      "plural": "Restaurants"
+    },
+    {
+      "id": "neuter-nouns-01:brot",
+      "type": "noun",
+      "german": "Brot",
+      "english": "bread",
+      "article": "das",
+      "plural": "Brote"
+    },
+    {
+      "id": "neuter-nouns-01:zeug",
+      "type": "noun",
+      "german": "Zeug",
+      "english": "stuff / gear",
+      "article": "das",
+      "plural": null
+    },
+    {
+      "id": "neuter-nouns-01:fahrrad",
+      "type": "noun",
+      "german": "Fahrrad",
+      "english": "bicycle",
+      "article": "das",
+      "plural": "Fahrräder"
+    },
+    {
+      "id": "neuter-nouns-01:fenster",
+      "type": "noun",
+      "german": "Fenster",
+      "english": "window",
+      "article": "das",
+      "plural": "Fenster"
+    },
+    {
+      "id": "neuter-nouns-01:theater",
+      "type": "noun",
+      "german": "Theater",
+      "english": "theater",
+      "article": "das",
+      "plural": "Theater"
+    },
+    {
+      "id": "neuter-nouns-01:hobby",
+      "type": "noun",
+      "german": "Hobby",
+      "english": "hobby",
+      "article": "das",
+      "plural": "Hobbys"
+    },
+    {
+      "id": "neuter-nouns-01:kaufhaus",
+      "type": "noun",
+      "german": "Kaufhaus",
+      "english": "department store",
+      "article": "das",
+      "plural": "Kaufhäuser"
+    },
+    {
+      "id": "neuter-nouns-01:ei",
+      "type": "noun",
+      "german": "Ei",
+      "english": "egg",
+      "article": "das",
+      "plural": "Eier"
+    },
+    {
+      "id": "neuter-nouns-01:kilo",
+      "type": "noun",
+      "german": "Kilo",
+      "english": "kilo / kilogram",
+      "article": "das",
+      "plural": "Kilos"
+    },
+    {
+      "id": "neuter-nouns-01:krankenhaus",
+      "type": "noun",
+      "german": "Krankenhaus",
+      "english": "hospital",
+      "article": "das",
+      "plural": "Krankenhäuser"
+    },
+    {
+      "id": "neuter-nouns-01:ausland",
+      "type": "noun",
+      "german": "Ausland",
+      "english": "abroad / foreign countries",
+      "article": "das",
+      "plural": null
+    },
+    {
+      "id": "neuter-nouns-01:jahr",
+      "type": "noun",
+      "german": "Jahr",
+      "english": "year",
+      "article": "das",
+      "plural": "Jahre"
+    },
+    {
+      "id": "neuter-nouns-01:buegeleisen",
+      "type": "noun",
+      "german": "Bügeleisen",
+      "english": "iron",
+      "article": "das",
+      "plural": "Bügeleisen"
+    },
+    {
+      "id": "neuter-nouns-01:maedchen",
+      "type": "noun",
+      "german": "Mädchen",
+      "english": "girl",
+      "article": "das",
+      "plural": "Mädchen"
+    },
+    {
+      "id": "neuter-nouns-01:haus",
+      "type": "noun",
+      "german": "Haus",
+      "english": "house",
+      "article": "das",
+      "plural": "Häuser"
+    },
+    {
+      "id": "neuter-nouns-01:telefon",
+      "type": "noun",
+      "german": "Telefon",
+      "english": "telephone / phone",
+      "article": "das",
+      "plural": "Telefone"
+    },
+    {
+      "id": "neuter-nouns-01:hemd",
+      "type": "noun",
+      "german": "Hemd",
+      "english": "shirt",
+      "article": "das",
+      "plural": "Hemden"
+    },
+    {
+      "id": "neuter-nouns-01:essen",
+      "type": "noun",
+      "german": "Essen",
+      "english": "food / meal",
+      "article": "das",
+      "plural": null
+    },
+    {
+      "id": "neuter-nouns-01:lammfleisch",
+      "type": "noun",
+      "german": "Lammfleisch",
+      "english": "lamb / mutton",
+      "article": "das",
+      "plural": null
+    },
+    {
+      "id": "neuter-nouns-01:schloss",
+      "type": "noun",
+      "german": "Schloss",
+      "english": "castle / lock",
+      "article": "das",
+      "plural": "Schlösser"
+    },
+    {
+      "id": "neuter-nouns-01:ohr",
+      "type": "noun",
+      "german": "Ohr",
+      "english": "ear",
+      "article": "das",
+      "plural": "Ohren"
+    },
+    {
+      "id": "neuter-nouns-01:buero",
+      "type": "noun",
+      "german": "Büro",
+      "english": "office",
+      "article": "das",
+      "plural": "Büros"
+    },
+    {
+      "id": "neuter-nouns-01:rundfunk",
+      "type": "noun",
+      "german": "Rundfunk",
+      "english": "radio broadcasting",
+      "article": "der",
+      "plural": null
+    },
+    {
+      "id": "neuter-nouns-01:paket",
+      "type": "noun",
+      "german": "Paket",
+      "english": "package / parcel",
+      "article": "das",
+      "plural": "Pakete"
+    },
+    {
+      "id": "neuter-nouns-01:bett",
+      "type": "noun",
+      "german": "Bett",
+      "english": "bed",
+      "article": "das",
+      "plural": "Betten"
+    },
+    {
+      "id": "neuter-nouns-01:ende",
+      "type": "noun",
+      "german": "Ende",
+      "english": "end",
+      "article": "das",
+      "plural": "Enden"
+    },
+    {
+      "id": "neuter-nouns-01:leben",
+      "type": "noun",
+      "german": "Leben",
+      "english": "life",
+      "article": "das",
+      "plural": null
+    },
+    {
+      "id": "neuter-nouns-01:licht",
+      "type": "noun",
+      "german": "Licht",
+      "english": "light",
+      "article": "das",
+      "plural": "Lichter"
+    },
+    {
+      "id": "neuter-nouns-01:fruehstueck",
+      "type": "noun",
+      "german": "Frühstück",
+      "english": "breakfast",
+      "article": "das",
+      "plural": null
+    },
+    {
+      "id": "neuter-nouns-01:motorrad",
+      "type": "noun",
+      "german": "Motorrad",
+      "english": "motorcycle",
+      "article": "das",
+      "plural": "Motorräder"
+    },
+    {
+      "id": "neuter-nouns-01:kino",
+      "type": "noun",
+      "german": "Kino",
+      "english": "cinema",
+      "article": "das",
+      "plural": "Kinos"
+    },
+    {
+      "id": "neuter-nouns-01:stueck",
+      "type": "noun",
+      "german": "Stück",
+      "english": "piece",
+      "article": "das",
+      "plural": "Stücke"
+    },
+    {
+      "id": "neuter-nouns-01:problem",
+      "type": "noun",
+      "german": "Problem",
+      "english": "problem",
+      "article": "das",
+      "plural": "Probleme"
+    },
+    {
+      "id": "neuter-nouns-01:wort",
+      "type": "noun",
+      "german": "Wort",
+      "english": "word",
+      "article": "das",
+      "plural": "Wörter"
+    },
+    {
+      "id": "neuter-nouns-01:gemuese",
+      "type": "noun",
+      "german": "Gemüse",
+      "english": "vegetables",
+      "article": "das",
+      "plural": null
+    },
+    {
+      "id": "neuter-nouns-01:getraenk",
+      "type": "noun",
+      "german": "Getränk",
+      "english": "drink / beverage",
+      "article": "das",
+      "plural": "Getränke"
+    },
+    {
+      "id": "neuter-nouns-01:studium",
+      "type": "noun",
+      "german": "Studium",
+      "english": "studies / degree program",
+      "article": "das",
+      "plural": "Studien"
+    },
+    {
+      "id": "neuter-nouns-01:reisebuero",
+      "type": "noun",
+      "german": "Reisebüro",
+      "english": "travel agency",
+      "article": "das",
+      "plural": "Reisebüros"
+    },
+    {
+      "id": "neuter-nouns-01:fest",
+      "type": "noun",
+      "german": "Fest",
+      "english": "festival / celebration",
+      "article": "das",
+      "plural": "Feste"
+    },
+    {
+      "id": "neuter-nouns-01:maerchen",
+      "type": "noun",
+      "german": "Märchen",
+      "english": "fairy tale",
+      "article": "das",
+      "plural": "Märchen"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T11:06:50.634Z",
+  "generatedAt": "2026-09-01T11:14:30.355Z",
   "voiceId": "Xb7hH8MSUJpSbSDYk0k2",
   "voiceName": "Alice - Clear, Engaging Educator",
   "modelId": "eleven_multilingual_v2",
@@ -2632,6 +2632,978 @@
       "variant": "word",
       "text": "Zucker",
       "path": "audio/vocabulary/masculine-nouns-01--zucker-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:abendessen",
+      "variant": "full",
+      "text": "das Abendessen",
+      "path": "audio/vocabulary/neuter-nouns-01--abendessen-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:abendessen",
+      "variant": "word",
+      "text": "Abendessen",
+      "path": "audio/vocabulary/neuter-nouns-01--abendessen-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:auge",
+      "variant": "full",
+      "text": "das Auge",
+      "path": "audio/vocabulary/neuter-nouns-01--auge-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:auge",
+      "variant": "word",
+      "text": "Auge",
+      "path": "audio/vocabulary/neuter-nouns-01--auge-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:ausland",
+      "variant": "full",
+      "text": "das Ausland",
+      "path": "audio/vocabulary/neuter-nouns-01--ausland-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:ausland",
+      "variant": "word",
+      "text": "Ausland",
+      "path": "audio/vocabulary/neuter-nouns-01--ausland-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:auto",
+      "variant": "full",
+      "text": "das Auto",
+      "path": "audio/vocabulary/neuter-nouns-01--auto-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:auto",
+      "variant": "word",
+      "text": "Auto",
+      "path": "audio/vocabulary/neuter-nouns-01--auto-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:baby",
+      "variant": "full",
+      "text": "das Baby",
+      "path": "audio/vocabulary/neuter-nouns-01--baby-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:baby",
+      "variant": "word",
+      "text": "Baby",
+      "path": "audio/vocabulary/neuter-nouns-01--baby-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:bein",
+      "variant": "full",
+      "text": "das Bein",
+      "path": "audio/vocabulary/neuter-nouns-01--bein-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:bein",
+      "variant": "word",
+      "text": "Bein",
+      "path": "audio/vocabulary/neuter-nouns-01--bein-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:bett",
+      "variant": "full",
+      "text": "das Bett",
+      "path": "audio/vocabulary/neuter-nouns-01--bett-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:bett",
+      "variant": "word",
+      "text": "Bett",
+      "path": "audio/vocabulary/neuter-nouns-01--bett-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:brot",
+      "variant": "full",
+      "text": "das Brot",
+      "path": "audio/vocabulary/neuter-nouns-01--brot-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:brot",
+      "variant": "word",
+      "text": "Brot",
+      "path": "audio/vocabulary/neuter-nouns-01--brot-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:buch",
+      "variant": "full",
+      "text": "das Buch",
+      "path": "audio/vocabulary/neuter-nouns-01--buch-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:buch",
+      "variant": "word",
+      "text": "Buch",
+      "path": "audio/vocabulary/neuter-nouns-01--buch-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:buegeleisen",
+      "variant": "full",
+      "text": "das Bügeleisen",
+      "path": "audio/vocabulary/neuter-nouns-01--buegeleisen-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:buegeleisen",
+      "variant": "word",
+      "text": "Bügeleisen",
+      "path": "audio/vocabulary/neuter-nouns-01--buegeleisen-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:buero",
+      "variant": "full",
+      "text": "das Büro",
+      "path": "audio/vocabulary/neuter-nouns-01--buero-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:buero",
+      "variant": "word",
+      "text": "Büro",
+      "path": "audio/vocabulary/neuter-nouns-01--buero-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:ei",
+      "variant": "full",
+      "text": "das Ei",
+      "path": "audio/vocabulary/neuter-nouns-01--ei-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:ei",
+      "variant": "word",
+      "text": "Ei",
+      "path": "audio/vocabulary/neuter-nouns-01--ei-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:einzelkind",
+      "variant": "full",
+      "text": "das Einzelkind",
+      "path": "audio/vocabulary/neuter-nouns-01--einzelkind-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:einzelkind",
+      "variant": "word",
+      "text": "Einzelkind",
+      "path": "audio/vocabulary/neuter-nouns-01--einzelkind-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:ende",
+      "variant": "full",
+      "text": "das Ende",
+      "path": "audio/vocabulary/neuter-nouns-01--ende-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:ende",
+      "variant": "word",
+      "text": "Ende",
+      "path": "audio/vocabulary/neuter-nouns-01--ende-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:essen",
+      "variant": "full",
+      "text": "das Essen",
+      "path": "audio/vocabulary/neuter-nouns-01--essen-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:essen",
+      "variant": "word",
+      "text": "Essen",
+      "path": "audio/vocabulary/neuter-nouns-01--essen-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:fach",
+      "variant": "full",
+      "text": "das Fach",
+      "path": "audio/vocabulary/neuter-nouns-01--fach-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:fach",
+      "variant": "word",
+      "text": "Fach",
+      "path": "audio/vocabulary/neuter-nouns-01--fach-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:fahrrad",
+      "variant": "full",
+      "text": "das Fahrrad",
+      "path": "audio/vocabulary/neuter-nouns-01--fahrrad-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:fahrrad",
+      "variant": "word",
+      "text": "Fahrrad",
+      "path": "audio/vocabulary/neuter-nouns-01--fahrrad-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:fenster",
+      "variant": "full",
+      "text": "das Fenster",
+      "path": "audio/vocabulary/neuter-nouns-01--fenster-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:fenster",
+      "variant": "word",
+      "text": "Fenster",
+      "path": "audio/vocabulary/neuter-nouns-01--fenster-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:fest",
+      "variant": "full",
+      "text": "das Fest",
+      "path": "audio/vocabulary/neuter-nouns-01--fest-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:fest",
+      "variant": "word",
+      "text": "Fest",
+      "path": "audio/vocabulary/neuter-nouns-01--fest-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:fleisch",
+      "variant": "full",
+      "text": "das Fleisch",
+      "path": "audio/vocabulary/neuter-nouns-01--fleisch-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:fleisch",
+      "variant": "word",
+      "text": "Fleisch",
+      "path": "audio/vocabulary/neuter-nouns-01--fleisch-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:flugzeug",
+      "variant": "full",
+      "text": "das Flugzeug",
+      "path": "audio/vocabulary/neuter-nouns-01--flugzeug-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:flugzeug",
+      "variant": "word",
+      "text": "Flugzeug",
+      "path": "audio/vocabulary/neuter-nouns-01--flugzeug-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:fotoalbum",
+      "variant": "full",
+      "text": "das Fotoalbum",
+      "path": "audio/vocabulary/neuter-nouns-01--fotoalbum-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:fotoalbum",
+      "variant": "word",
+      "text": "Fotoalbum",
+      "path": "audio/vocabulary/neuter-nouns-01--fotoalbum-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:fraeulein",
+      "variant": "full",
+      "text": "das Fräulein",
+      "path": "audio/vocabulary/neuter-nouns-01--fraeulein-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:fraeulein",
+      "variant": "word",
+      "text": "Fräulein",
+      "path": "audio/vocabulary/neuter-nouns-01--fraeulein-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:fruehstueck",
+      "variant": "full",
+      "text": "das Frühstück",
+      "path": "audio/vocabulary/neuter-nouns-01--fruehstueck-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:fruehstueck",
+      "variant": "word",
+      "text": "Frühstück",
+      "path": "audio/vocabulary/neuter-nouns-01--fruehstueck-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:geld",
+      "variant": "full",
+      "text": "das Geld",
+      "path": "audio/vocabulary/neuter-nouns-01--geld-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:geld",
+      "variant": "word",
+      "text": "Geld",
+      "path": "audio/vocabulary/neuter-nouns-01--geld-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:gemuese",
+      "variant": "full",
+      "text": "das Gemüse",
+      "path": "audio/vocabulary/neuter-nouns-01--gemuese-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:gemuese",
+      "variant": "word",
+      "text": "Gemüse",
+      "path": "audio/vocabulary/neuter-nouns-01--gemuese-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:geschaeft",
+      "variant": "full",
+      "text": "das Geschäft",
+      "path": "audio/vocabulary/neuter-nouns-01--geschaeft-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:geschaeft",
+      "variant": "word",
+      "text": "Geschäft",
+      "path": "audio/vocabulary/neuter-nouns-01--geschaeft-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:gesicht",
+      "variant": "full",
+      "text": "das Gesicht",
+      "path": "audio/vocabulary/neuter-nouns-01--gesicht-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:gesicht",
+      "variant": "word",
+      "text": "Gesicht",
+      "path": "audio/vocabulary/neuter-nouns-01--gesicht-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:getraenk",
+      "variant": "full",
+      "text": "das Getränk",
+      "path": "audio/vocabulary/neuter-nouns-01--getraenk-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:getraenk",
+      "variant": "word",
+      "text": "Getränk",
+      "path": "audio/vocabulary/neuter-nouns-01--getraenk-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:glas",
+      "variant": "full",
+      "text": "das Glas",
+      "path": "audio/vocabulary/neuter-nouns-01--glas-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:glas",
+      "variant": "word",
+      "text": "Glas",
+      "path": "audio/vocabulary/neuter-nouns-01--glas-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:haar",
+      "variant": "full",
+      "text": "das Haar",
+      "path": "audio/vocabulary/neuter-nouns-01--haar-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:haar",
+      "variant": "word",
+      "text": "Haar",
+      "path": "audio/vocabulary/neuter-nouns-01--haar-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:handy",
+      "variant": "full",
+      "text": "das Handy",
+      "path": "audio/vocabulary/neuter-nouns-01--handy-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:handy",
+      "variant": "word",
+      "text": "Handy",
+      "path": "audio/vocabulary/neuter-nouns-01--handy-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:haus",
+      "variant": "full",
+      "text": "das Haus",
+      "path": "audio/vocabulary/neuter-nouns-01--haus-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:haus",
+      "variant": "word",
+      "text": "Haus",
+      "path": "audio/vocabulary/neuter-nouns-01--haus-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:heft",
+      "variant": "full",
+      "text": "das Heft",
+      "path": "audio/vocabulary/neuter-nouns-01--heft-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:heft",
+      "variant": "word",
+      "text": "Heft",
+      "path": "audio/vocabulary/neuter-nouns-01--heft-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:hemd",
+      "variant": "full",
+      "text": "das Hemd",
+      "path": "audio/vocabulary/neuter-nouns-01--hemd-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:hemd",
+      "variant": "word",
+      "text": "Hemd",
+      "path": "audio/vocabulary/neuter-nouns-01--hemd-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:herz",
+      "variant": "full",
+      "text": "das Herz",
+      "path": "audio/vocabulary/neuter-nouns-01--herz-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:herz",
+      "variant": "word",
+      "text": "Herz",
+      "path": "audio/vocabulary/neuter-nouns-01--herz-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:hobby",
+      "variant": "full",
+      "text": "das Hobby",
+      "path": "audio/vocabulary/neuter-nouns-01--hobby-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:hobby",
+      "variant": "word",
+      "text": "Hobby",
+      "path": "audio/vocabulary/neuter-nouns-01--hobby-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:hotel",
+      "variant": "full",
+      "text": "das Hotel",
+      "path": "audio/vocabulary/neuter-nouns-01--hotel-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:hotel",
+      "variant": "word",
+      "text": "Hotel",
+      "path": "audio/vocabulary/neuter-nouns-01--hotel-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:institut",
+      "variant": "full",
+      "text": "das Institut",
+      "path": "audio/vocabulary/neuter-nouns-01--institut-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:institut",
+      "variant": "word",
+      "text": "Institut",
+      "path": "audio/vocabulary/neuter-nouns-01--institut-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:jahr",
+      "variant": "full",
+      "text": "das Jahr",
+      "path": "audio/vocabulary/neuter-nouns-01--jahr-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:jahr",
+      "variant": "word",
+      "text": "Jahr",
+      "path": "audio/vocabulary/neuter-nouns-01--jahr-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:kaufhaus",
+      "variant": "full",
+      "text": "das Kaufhaus",
+      "path": "audio/vocabulary/neuter-nouns-01--kaufhaus-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:kaufhaus",
+      "variant": "word",
+      "text": "Kaufhaus",
+      "path": "audio/vocabulary/neuter-nouns-01--kaufhaus-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:kilo",
+      "variant": "full",
+      "text": "das Kilo",
+      "path": "audio/vocabulary/neuter-nouns-01--kilo-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:kilo",
+      "variant": "word",
+      "text": "Kilo",
+      "path": "audio/vocabulary/neuter-nouns-01--kilo-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:kind",
+      "variant": "full",
+      "text": "das Kind",
+      "path": "audio/vocabulary/neuter-nouns-01--kind-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:kind",
+      "variant": "word",
+      "text": "Kind",
+      "path": "audio/vocabulary/neuter-nouns-01--kind-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:kino",
+      "variant": "full",
+      "text": "das Kino",
+      "path": "audio/vocabulary/neuter-nouns-01--kino-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:kino",
+      "variant": "word",
+      "text": "Kino",
+      "path": "audio/vocabulary/neuter-nouns-01--kino-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:kopfweh",
+      "variant": "full",
+      "text": "das Kopfweh",
+      "path": "audio/vocabulary/neuter-nouns-01--kopfweh-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:kopfweh",
+      "variant": "word",
+      "text": "Kopfweh",
+      "path": "audio/vocabulary/neuter-nouns-01--kopfweh-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:krankenhaus",
+      "variant": "full",
+      "text": "das Krankenhaus",
+      "path": "audio/vocabulary/neuter-nouns-01--krankenhaus-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:krankenhaus",
+      "variant": "word",
+      "text": "Krankenhaus",
+      "path": "audio/vocabulary/neuter-nouns-01--krankenhaus-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:lammfleisch",
+      "variant": "full",
+      "text": "das Lammfleisch",
+      "path": "audio/vocabulary/neuter-nouns-01--lammfleisch-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:lammfleisch",
+      "variant": "word",
+      "text": "Lammfleisch",
+      "path": "audio/vocabulary/neuter-nouns-01--lammfleisch-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:land",
+      "variant": "full",
+      "text": "das Land",
+      "path": "audio/vocabulary/neuter-nouns-01--land-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:land",
+      "variant": "word",
+      "text": "Land",
+      "path": "audio/vocabulary/neuter-nouns-01--land-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:leben",
+      "variant": "full",
+      "text": "das Leben",
+      "path": "audio/vocabulary/neuter-nouns-01--leben-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:leben",
+      "variant": "word",
+      "text": "Leben",
+      "path": "audio/vocabulary/neuter-nouns-01--leben-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:licht",
+      "variant": "full",
+      "text": "das Licht",
+      "path": "audio/vocabulary/neuter-nouns-01--licht-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:licht",
+      "variant": "word",
+      "text": "Licht",
+      "path": "audio/vocabulary/neuter-nouns-01--licht-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:lied",
+      "variant": "full",
+      "text": "das Lied",
+      "path": "audio/vocabulary/neuter-nouns-01--lied-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:lied",
+      "variant": "word",
+      "text": "Lied",
+      "path": "audio/vocabulary/neuter-nouns-01--lied-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:maedchen",
+      "variant": "full",
+      "text": "das Mädchen",
+      "path": "audio/vocabulary/neuter-nouns-01--maedchen-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:maedchen",
+      "variant": "word",
+      "text": "Mädchen",
+      "path": "audio/vocabulary/neuter-nouns-01--maedchen-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:maerchen",
+      "variant": "full",
+      "text": "das Märchen",
+      "path": "audio/vocabulary/neuter-nouns-01--maerchen-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:maerchen",
+      "variant": "word",
+      "text": "Märchen",
+      "path": "audio/vocabulary/neuter-nouns-01--maerchen-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:mittagessen",
+      "variant": "full",
+      "text": "das Mittagessen",
+      "path": "audio/vocabulary/neuter-nouns-01--mittagessen-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:mittagessen",
+      "variant": "word",
+      "text": "Mittagessen",
+      "path": "audio/vocabulary/neuter-nouns-01--mittagessen-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:motorrad",
+      "variant": "full",
+      "text": "das Motorrad",
+      "path": "audio/vocabulary/neuter-nouns-01--motorrad-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:motorrad",
+      "variant": "word",
+      "text": "Motorrad",
+      "path": "audio/vocabulary/neuter-nouns-01--motorrad-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:ohr",
+      "variant": "full",
+      "text": "das Ohr",
+      "path": "audio/vocabulary/neuter-nouns-01--ohr-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:ohr",
+      "variant": "word",
+      "text": "Ohr",
+      "path": "audio/vocabulary/neuter-nouns-01--ohr-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:paeckchen",
+      "variant": "full",
+      "text": "das Päckchen",
+      "path": "audio/vocabulary/neuter-nouns-01--paeckchen-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:paeckchen",
+      "variant": "word",
+      "text": "Päckchen",
+      "path": "audio/vocabulary/neuter-nouns-01--paeckchen-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:paket",
+      "variant": "full",
+      "text": "das Paket",
+      "path": "audio/vocabulary/neuter-nouns-01--paket-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:paket",
+      "variant": "word",
+      "text": "Paket",
+      "path": "audio/vocabulary/neuter-nouns-01--paket-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:pfund",
+      "variant": "full",
+      "text": "das Pfund",
+      "path": "audio/vocabulary/neuter-nouns-01--pfund-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:pfund",
+      "variant": "word",
+      "text": "Pfund",
+      "path": "audio/vocabulary/neuter-nouns-01--pfund-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:problem",
+      "variant": "full",
+      "text": "das Problem",
+      "path": "audio/vocabulary/neuter-nouns-01--problem-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:problem",
+      "variant": "word",
+      "text": "Problem",
+      "path": "audio/vocabulary/neuter-nouns-01--problem-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:radio",
+      "variant": "full",
+      "text": "das Radio",
+      "path": "audio/vocabulary/neuter-nouns-01--radio-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:radio",
+      "variant": "word",
+      "text": "Radio",
+      "path": "audio/vocabulary/neuter-nouns-01--radio-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:reisebuero",
+      "variant": "full",
+      "text": "das Reisebüro",
+      "path": "audio/vocabulary/neuter-nouns-01--reisebuero-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:reisebuero",
+      "variant": "word",
+      "text": "Reisebüro",
+      "path": "audio/vocabulary/neuter-nouns-01--reisebuero-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:restaurant",
+      "variant": "full",
+      "text": "das Restaurant",
+      "path": "audio/vocabulary/neuter-nouns-01--restaurant-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:restaurant",
+      "variant": "word",
+      "text": "Restaurant",
+      "path": "audio/vocabulary/neuter-nouns-01--restaurant-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:rindfleisch",
+      "variant": "full",
+      "text": "das Rindfleisch",
+      "path": "audio/vocabulary/neuter-nouns-01--rindfleisch-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:rindfleisch",
+      "variant": "word",
+      "text": "Rindfleisch",
+      "path": "audio/vocabulary/neuter-nouns-01--rindfleisch-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:rundfunk",
+      "variant": "full",
+      "text": "der Rundfunk",
+      "path": "audio/vocabulary/neuter-nouns-01--rundfunk-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:rundfunk",
+      "variant": "word",
+      "text": "Rundfunk",
+      "path": "audio/vocabulary/neuter-nouns-01--rundfunk-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:schild",
+      "variant": "full",
+      "text": "das Schild",
+      "path": "audio/vocabulary/neuter-nouns-01--schild-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:schild",
+      "variant": "word",
+      "text": "Schild",
+      "path": "audio/vocabulary/neuter-nouns-01--schild-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:schloss",
+      "variant": "full",
+      "text": "das Schloss",
+      "path": "audio/vocabulary/neuter-nouns-01--schloss-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:schloss",
+      "variant": "word",
+      "text": "Schloss",
+      "path": "audio/vocabulary/neuter-nouns-01--schloss-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:silber",
+      "variant": "full",
+      "text": "das Silber",
+      "path": "audio/vocabulary/neuter-nouns-01--silber-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:silber",
+      "variant": "word",
+      "text": "Silber",
+      "path": "audio/vocabulary/neuter-nouns-01--silber-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:sofa",
+      "variant": "full",
+      "text": "das Sofa",
+      "path": "audio/vocabulary/neuter-nouns-01--sofa-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:sofa",
+      "variant": "word",
+      "text": "Sofa",
+      "path": "audio/vocabulary/neuter-nouns-01--sofa-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:spiel",
+      "variant": "full",
+      "text": "das Spiel",
+      "path": "audio/vocabulary/neuter-nouns-01--spiel-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:spiel",
+      "variant": "word",
+      "text": "Spiel",
+      "path": "audio/vocabulary/neuter-nouns-01--spiel-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:studium",
+      "variant": "full",
+      "text": "das Studium",
+      "path": "audio/vocabulary/neuter-nouns-01--studium-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:studium",
+      "variant": "word",
+      "text": "Studium",
+      "path": "audio/vocabulary/neuter-nouns-01--studium-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:stueck",
+      "variant": "full",
+      "text": "das Stück",
+      "path": "audio/vocabulary/neuter-nouns-01--stueck-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:stueck",
+      "variant": "word",
+      "text": "Stück",
+      "path": "audio/vocabulary/neuter-nouns-01--stueck-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:telefon",
+      "variant": "full",
+      "text": "das Telefon",
+      "path": "audio/vocabulary/neuter-nouns-01--telefon-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:telefon",
+      "variant": "word",
+      "text": "Telefon",
+      "path": "audio/vocabulary/neuter-nouns-01--telefon-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:theater",
+      "variant": "full",
+      "text": "das Theater",
+      "path": "audio/vocabulary/neuter-nouns-01--theater-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:theater",
+      "variant": "word",
+      "text": "Theater",
+      "path": "audio/vocabulary/neuter-nouns-01--theater-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:wasser",
+      "variant": "full",
+      "text": "das Wasser",
+      "path": "audio/vocabulary/neuter-nouns-01--wasser-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:wasser",
+      "variant": "word",
+      "text": "Wasser",
+      "path": "audio/vocabulary/neuter-nouns-01--wasser-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:weihnachten",
+      "variant": "full",
+      "text": "das Weihnachten",
+      "path": "audio/vocabulary/neuter-nouns-01--weihnachten-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:weihnachten",
+      "variant": "word",
+      "text": "Weihnachten",
+      "path": "audio/vocabulary/neuter-nouns-01--weihnachten-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:woerterbuch",
+      "variant": "full",
+      "text": "das Wörterbuch",
+      "path": "audio/vocabulary/neuter-nouns-01--woerterbuch-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:woerterbuch",
+      "variant": "word",
+      "text": "Wörterbuch",
+      "path": "audio/vocabulary/neuter-nouns-01--woerterbuch-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:wort",
+      "variant": "full",
+      "text": "das Wort",
+      "path": "audio/vocabulary/neuter-nouns-01--wort-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:wort",
+      "variant": "word",
+      "text": "Wort",
+      "path": "audio/vocabulary/neuter-nouns-01--wort-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:zeug",
+      "variant": "full",
+      "text": "das Zeug",
+      "path": "audio/vocabulary/neuter-nouns-01--zeug-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:zeug",
+      "variant": "word",
+      "text": "Zeug",
+      "path": "audio/vocabulary/neuter-nouns-01--zeug-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:ziel",
+      "variant": "full",
+      "text": "das Ziel",
+      "path": "audio/vocabulary/neuter-nouns-01--ziel-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:ziel",
+      "variant": "word",
+      "text": "Ziel",
+      "path": "audio/vocabulary/neuter-nouns-01--ziel-word.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:zimmer",
+      "variant": "full",
+      "text": "das Zimmer",
+      "path": "audio/vocabulary/neuter-nouns-01--zimmer-full.mp3"
+    },
+    {
+      "vocabId": "neuter-nouns-01:zimmer",
+      "variant": "word",
+      "text": "Zimmer",
+      "path": "audio/vocabulary/neuter-nouns-01--zimmer-word.mp3"
     }
   ]
 }
